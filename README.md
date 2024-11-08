@@ -1,29 +1,33 @@
 # 👋 Hi, I'm **Rendyll Ryan Cabardo**  
 *Aspiring Developer | Problem Solver | Lifelong Learner*  
-I'm passionate about technology and continuously evolving my skills. My goal is to build scalable, user-centric applications while constantly challenging myself with new, exciting problems.
+I’m passionate about coding and constantly expanding my knowledge. I love working on diverse projects that challenge me to think critically and grow as a developer. My goal is to create software solutions that are both **efficient** and **impactful**.
 
 ---
 
 ## 🚀 About Me  
-I’m a self-taught developer, constantly pushing myself to tackle new challenges. Whether it's building a full-stack application, diving into machine learning, or exploring the latest web frameworks, I’m always learning and growing. I believe in delivering high-quality, scalable code, while keeping an open mind to new technologies.
+I'm a full-stack developer who thrives on problem-solving and learning new technologies. I aim to build scalable, user-centric applications with the latest tools and frameworks. With a strong foundation in **JavaScript**, **React**, and **Node.js**, I continue to expand my skills in **Python** and **data science**.
 
-Currently, I'm focused on:
-- Developing intuitive and performant user interfaces with **React**
-- Building backend APIs with **Node.js** and **Express**
-- Expanding my knowledge in **Python** and **Data Science**
-  
+- 🌍 **Focus Areas**:
+  - Building **interactive UIs** with **React**
+  - Creating **backend APIs** with **Node.js** and **Express**
+  - Working with **databases** like **MySQL** and **MongoDB**
+  - Exploring **Python** for data analysis and automation
+
+I'm always eager to collaborate, share ideas, and tackle new challenges. Let's build something amazing together! 🤝
+
 ---
 
 ## 🛠️ Technologies & Tools  
-I work with a diverse set of tools and technologies. Here’s a breakdown of what I currently use and enjoy:
+Here's a quick look at the tools and technologies I love working with:
 
-### 🌐 **Frontend Development:**
+### 💻 **Frontend Development:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🖥️ **Backend Development:**
+### 🔧 **Backend Development:**
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,12 +45,12 @@ I work with a diverse set of tools and technologies. Here’s a breakdown of wha
 
 ## 📈 GitHub Stats  
 
-Here’s a quick view of my GitHub activity, showcasing my contributions and most-used languages. My stats and contributions are updated in real-time, so you’ll always see the most recent progress!
+Here’s a real-time snapshot of my GitHub activity, reflecting my contributions, languages, and growth. My stats automatically update, so you can see my most recent progress and contributions!
 
 ### 📊 **GitHub Stats:**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&hide=prs" />
 </div>
 
 ### 🌍 **Most Used Languages:**
@@ -58,7 +62,7 @@ Here’s a quick view of my GitHub activity, showcasing my contributions and mos
 ---
 
 ## 🤝 Let’s Connect!  
-I’m always excited to collaborate, share knowledge, and learn from others. If you're interested in tech discussions, project collaborations, or simply connecting, don't hesitate to reach out!
+I’m always open to new collaborations, whether it’s for open-source projects, tech talks, or just bouncing ideas. If you're interested in working together or just want to discuss the latest tech trends, feel free to connect!
 
 - 📧 **Email:** [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
 - 🔗 **LinkedIn:** [Rendyll Ryan Cabardo](https://www.linkedin.com/in/rendyllcabardo/)  
@@ -68,11 +72,15 @@ I’m always excited to collaborate, share knowledge, and learn from others. If 
 
 ---
 
-## 📧 Contact Me  
-Feel free to send me a message if you'd like to chat about coding, tech, or if you have an interesting project in mind! I’m open to new collaborations and always looking to expand my network.
+## ⚡ Fun Facts
+- **I’m a lifelong learner**. When I’m not coding, I’m reading about tech, exploring new programming languages, or taking online courses.
+- **I love gaming**. It’s a fun way to unwind and often sparks ideas for creative problem-solving.
+- **I enjoy teaching**. Whether it’s mentoring others or writing blog posts, I find joy in helping others grow their skills.
 
 ---
 
-## ⚡ Fun Facts
-- **I love challenges.** Whether it’s tackling a bug or learning a new language, I embrace challenges and view them as opportunities to grow.
-- **I’m an avid reader.** When I’m not coding, you’ll find me reading tech blogs, books, or exploring new areas of development.
+## 📧 Contact Me  
+Feel free to send me a message if you'd like to collaborate, chat about coding, or simply connect. I'm always open to new opportunities and learning from others!
+
+---
+
