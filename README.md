@@ -51,7 +51,6 @@ Here’s a glimpse of my GitHub activity and contributions to open-source projec
 I’m always open to connecting with other developers, engineers, and tech enthusiasts. Whether you want to collaborate on a project, share insights, or discuss the latest trends in technology, feel free to reach out!
 
 - 📧 **Email**: [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
-- 🔗 **LinkedIn**: [Rendyll Ryan Cabardo](https://www.linkedin.com/in/rendyllcabardo/) *(Add your LinkedIn URL here)*
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
