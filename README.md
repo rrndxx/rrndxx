@@ -74,8 +74,6 @@ I'm always excited to collaborate on projects, share knowledge, or simply chat a
 
 ## ⚡ Fun Facts  
 - **Lifelong Learner**: I constantly seek new learning opportunities and love pushing my limits with coding challenges, courses, and tech meetups.
-- **Game Development Enthusiast**: I enjoy dabbling in game development in my spare time. It’s a great way to explore new technologies while having fun.
-- **Open Source Contributor**: I believe in the power of collaboration and actively contribute to open-source projects whenever I can.
 
 ---
 
