@@ -1,24 +1,24 @@
 # 👋 Hi, I'm **Rendyll Ryan Cabardo**  
 *Full-stack Developer | Lifelong Learner | Problem Solver*  
-I’m passionate about building **impactful software** and continuously evolving as a developer. I specialize in crafting **scalable applications**, solving complex challenges, and collaborating on exciting projects.
+I am passionate about creating impactful software and continuously evolving as a developer. I specialize in building **scalable applications**, solving complex challenges, and collaborating on exciting projects.
 
 ---
 
 ## 🚀 About Me  
-I am a full-stack developer who loves to create **user-centric applications**. I work with modern frameworks like **React**, **Node.js**, and **Python** to deliver solutions that are both functional and delightful to use.
+I am a versatile **full-stack developer** with a focus on building **user-centric applications**. I work across both **frontend** and **backend technologies**, using **React**, **Node.js**, and **Python** to create seamless, scalable solutions.
 
 - 🌍 **Focus Areas:**
-  - **Frontend Development**: React, Tailwind CSS, and modern JavaScript frameworks.
-  - **Backend Development**: Node.js, Express, and Python.
-  - **Database Management**: MySQL, MongoDB, PostgreSQL.
-  - **Data Science & Machine Learning**: Python-based libraries such as pandas, numpy, and scikit-learn.
+  - **Frontend**: React, Tailwind CSS, JavaScript frameworks.
+  - **Backend**: Node.js, Express, Python.
+  - **Databases**: MySQL, MongoDB, PostgreSQL.
+  - **Machine Learning & Data Science**: Python-based libraries (pandas, scikit-learn).
 
-I believe in **continuous learning** and the power of collaboration. Let's connect and work on something amazing!
+I believe in **continuous learning**, and I love collaborating with others to create innovative solutions.
 
 ---
 
 ## 🛠️ Technologies & Tools  
-Here’s a look at the technologies I work with. I believe in using the right tool for the job, which is why I enjoy exploring various tools and technologies to build scalable and performant applications.
+Here’s a snapshot of the tools and technologies I frequently use to build fast, scalable, and high-quality applications:
 
 ### 🌐 **Frontend Development**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -46,24 +46,24 @@ Here’s a look at the technologies I work with. I believe in using the right to
 ---
 
 ## 📈 GitHub Stats  
-Here’s a live snapshot of my GitHub activity and most-used languages:
+Here’s a quick look at my GitHub activity and most used languages.
 
 ### 📊 **GitHub Stats:**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true&hide=prs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=gruvbox&hide_title=true&count_private=true&include_all_commits=true&hide=prs" />
 </div>
 
 ### 🌍 **Most Used Languages:**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=dark&hide_title=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=gruvbox&hide_title=true&count_private=true" />
 </div>
 
 ---
 
 ## 🤝 Let’s Connect!  
-I’m always open to collaborating on innovative projects and sharing knowledge. Feel free to reach out to me via the following channels:
+I'm always excited to collaborate on projects, share knowledge, or simply chat about tech. Feel free to reach out to me through these channels:
 
 - 📧 **Email**: [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
 - 🔗 **LinkedIn**: [Rendyll Ryan Cabardo](https://www.linkedin.com/in/rendyllcabardo/)  
@@ -75,14 +75,14 @@ I’m always open to collaborating on innovative projects and sharing knowledge.
 ---
 
 ## ⚡ Fun Facts  
-- **Lifelong Learner**: I am constantly learning new technologies and improving my skill set through courses, books, and community events.
-- **Game Developer Enthusiast**: I occasionally dive into game development to stretch my creativity and challenge myself with complex coding problems.
-- **Community Advocate**: I love mentoring, contributing to open-source projects, and attending meetups to help others grow in their developer journey.
+- **Lifelong Learner**: I constantly seek new learning opportunities and love pushing my limits with coding challenges, courses, and tech meetups.
+- **Game Development Enthusiast**: I enjoy dabbling in game development in my spare time. It’s a great way to explore new technologies while having fun.
+- **Open Source Contributor**: I believe in the power of collaboration and actively contribute to open-source projects whenever I can.
 
 ---
 
 ## 📧 Contact Me  
-Feel free to drop me a message if you're interested in **collaborating** or discussing **tech trends**. I’m always up for building something awesome!
+I’m always open to connecting with fellow developers, innovators, and creators. Drop me a message if you're interested in **collaborating**, **mentoring**, or just chatting about **tech**!
 
 ---
 
