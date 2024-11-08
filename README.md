@@ -1,5 +1,4 @@
-# 👋 Sup! I'm Rendyll Ryan Cabardo.  
-![Profile Banner](https://your-image-link.com/banner.jpg)  
+# 👋 Sup! I'm Rendyll Ryan Cabardo.   
 *I'm a passionate in learning that's why this journey will be never-ending!*
 
 ---
