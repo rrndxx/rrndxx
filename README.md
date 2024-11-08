@@ -1,5 +1,5 @@
 # 👋 Sup! I'm Rendyll Ryan Cabardo.   
-*I'm a passionate in learning that's why this journey will be never-ending!*
+*I'm passionate in learning that's why this journey will be never-ending!*
 
 ---
 
