@@ -6,11 +6,6 @@
 ## 🚀 About Me
 I'm an aspiring developer with a knack for putting myself into difficult situations. I enjoy working on various projects.
 
-- 💻 **Languages**: JavaScript, Python, Java, C#
-- 🌐 **Web**: React, HTML5, CSS, Tailwind CSS, Bootstrap CSS
-- 🖥️ **Backend**: PHP, Node.js, Express.js
-- 📦 **Databases**: MySQL, MongoDB
-
 ---
 
 ## 🛠️ Technologies & Tools
