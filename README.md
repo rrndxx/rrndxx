@@ -24,7 +24,7 @@ Here’s a quick snapshot of my GitHub activity:
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=radical)
 
 ---
 
