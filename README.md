@@ -66,7 +66,7 @@ I'm always excited to collaborate on projects, share knowledge, or simply chat a
 
 - 📧 **Email**: [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
 - 🔗 **Facebook**: [Rendyll Ryan Cabardo](https://web.facebook.com/rendyllryan.cabardo?_rdc=1&_rdr#)  
-- 🌐 **Portfolio/Website**: *(Optional)*  
+- 🌐 **Portfolio/Website**: 
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
