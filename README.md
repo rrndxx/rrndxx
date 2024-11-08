@@ -1,42 +1,44 @@
 # 👋 Hi, I'm **Rendyll Ryan Cabardo**  
-*Aspiring Developer | Problem Solver | Lifelong Learner*  
-I’m passionate about coding and constantly expanding my knowledge. I love working on diverse projects that challenge me to think critically and grow as a developer. My goal is to create software solutions that are both **efficient** and **impactful**.
+*Full-stack Developer | Lifelong Learner | Problem Solver*  
+I’m passionate about building **impactful software** and continuously evolving as a developer. I specialize in crafting **scalable applications**, solving complex challenges, and collaborating on exciting projects.
 
 ---
 
 ## 🚀 About Me  
-I'm a full-stack developer who thrives on problem-solving and learning new technologies. I aim to build scalable, user-centric applications with the latest tools and frameworks. With a strong foundation in **JavaScript**, **React**, and **Node.js**, I continue to expand my skills in **Python** and **data science**.
+I am a full-stack developer who loves to create **user-centric applications**. I work with modern frameworks like **React**, **Node.js**, and **Python** to deliver solutions that are both functional and delightful to use.
 
-- 🌍 **Focus Areas**:
-  - Building **interactive UIs** with **React**
-  - Creating **backend APIs** with **Node.js** and **Express**
-  - Working with **databases** like **MySQL** and **MongoDB**
-  - Exploring **Python** for data analysis and automation
+- 🌍 **Focus Areas:**
+  - **Frontend Development**: React, Tailwind CSS, and modern JavaScript frameworks.
+  - **Backend Development**: Node.js, Express, and Python.
+  - **Database Management**: MySQL, MongoDB, PostgreSQL.
+  - **Data Science & Machine Learning**: Python-based libraries such as pandas, numpy, and scikit-learn.
 
-I'm always eager to collaborate, share ideas, and tackle new challenges. Let's build something amazing together! 🤝
+I believe in **continuous learning** and the power of collaboration. Let's connect and work on something amazing!
 
 ---
 
 ## 🛠️ Technologies & Tools  
-Here's a quick look at the tools and technologies I love working with:
+Here’s a look at the technologies I work with. I believe in using the right tool for the job, which is why I enjoy exploring various tools and technologies to build scalable and performant applications.
 
-### 💻 **Frontend Development:**
+### 🌐 **Frontend Development**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-### 🔧 **Backend Development:**
+### 🔧 **Backend Development**  
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-### 🗄️ **Databases & Data Management:**
+### 🗄️ **Databases & Data Management**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### 🛠️ **DevOps & Version Control:**
+### 🛠️ **DevOps & Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -44,43 +46,43 @@ Here's a quick look at the tools and technologies I love working with:
 ---
 
 ## 📈 GitHub Stats  
-
-Here’s a real-time snapshot of my GitHub activity, reflecting my contributions, languages, and growth. My stats automatically update, so you can see my most recent progress and contributions!
+Here’s a live snapshot of my GitHub activity and most-used languages:
 
 ### 📊 **GitHub Stats:**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&hide=prs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true&hide=prs" />
 </div>
 
 ### 🌍 **Most Used Languages:**
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=radical&hide_title=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=dark&hide_title=true&count_private=true" />
 </div>
 
 ---
 
 ## 🤝 Let’s Connect!  
-I’m always open to new collaborations, whether it’s for open-source projects, tech talks, or just bouncing ideas. If you're interested in working together or just want to discuss the latest tech trends, feel free to connect!
+I’m always open to collaborating on innovative projects and sharing knowledge. Feel free to reach out to me via the following channels:
 
-- 📧 **Email:** [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
-- 🔗 **LinkedIn:** [Rendyll Ryan Cabardo](https://www.linkedin.com/in/rendyllcabardo/)  
-- 💬 **Twitter:** [@rendyll_dev](https://twitter.com/rendyll_dev) *(Optional – add your Twitter handle if you'd like)*
+- 📧 **Email**: [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
+- 🔗 **LinkedIn**: [Rendyll Ryan Cabardo](https://www.linkedin.com/in/rendyllcabardo/)  
+- 💬 **Twitter**: [@rendyll_dev](https://twitter.com/rendyll_dev) *(Optional)*  
+- 🌐 **Portfolio/Website**: *(Optional)*  
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
-## ⚡ Fun Facts
-- **I’m a lifelong learner**. When I’m not coding, I’m reading about tech, exploring new programming languages, or taking online courses.
-- **I love gaming**. It’s a fun way to unwind and often sparks ideas for creative problem-solving.
-- **I enjoy teaching**. Whether it’s mentoring others or writing blog posts, I find joy in helping others grow their skills.
+## ⚡ Fun Facts  
+- **Lifelong Learner**: I am constantly learning new technologies and improving my skill set through courses, books, and community events.
+- **Game Developer Enthusiast**: I occasionally dive into game development to stretch my creativity and challenge myself with complex coding problems.
+- **Community Advocate**: I love mentoring, contributing to open-source projects, and attending meetups to help others grow in their developer journey.
 
 ---
 
 ## 📧 Contact Me  
-Feel free to send me a message if you'd like to collaborate, chat about coding, or simply connect. I'm always open to new opportunities and learning from others!
+Feel free to drop me a message if you're interested in **collaborating** or discussing **tech trends**. I’m always up for building something awesome!
 
 ---
 
