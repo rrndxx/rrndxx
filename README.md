@@ -1,16 +1,16 @@
 # 👋 Hi, I'm **Rendyll Ryan Cabardo**  
-*Full-stack Developer | Lifelong Learner | Problem Solver*  
+*Still-Learning Developer | Lifelong Learner | Problem Solver*  
 I am passionate about creating impactful software and continuously evolving as a developer. I specialize in building **scalable applications**, solving complex challenges, and collaborating on exciting projects.
 
 ---
 
 ## 🚀 About Me  
-I am a versatile **full-stack developer** with a focus on building **user-centric applications**. I work across both **frontend** and **backend technologies**, using **React**, **Node.js**, and **Python** to create seamless, scalable solutions.
+I am a meow meow who loves to code just to have problems in life.
 
 - 🌍 **Focus Areas:**
-  - **Frontend**: React, Tailwind CSS, JavaScript frameworks.
-  - **Backend**: Node.js, Express, Python.
-  - **Databases**: MySQL, MongoDB, PostgreSQL.
+  - **Frontend**: Bootstrap CSS, Tailwind CSS, JavaScript frameworks.
+  - **Backend**: Node.js, Express, Python, PHP.
+  - **Databases**: MySQL & MongoDB.
   - **Machine Learning & Data Science**: Python-based libraries (pandas, scikit-learn).
 
 I believe in **continuous learning**, and I love collaborating with others to create innovative solutions.
@@ -36,7 +36,6 @@ Here’s a snapshot of the tools and technologies I frequently use to build fast
 ### 🗄️ **Databases & Data Management**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🛠️ **DevOps & Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
@@ -66,8 +65,7 @@ Here’s a quick look at my GitHub activity and most used languages.
 I'm always excited to collaborate on projects, share knowledge, or simply chat about tech. Feel free to reach out to me through these channels:
 
 - 📧 **Email**: [rendyllcabardo11@gmail.com](mailto:rendyllcabardo11@gmail.com)  
-- 🔗 **LinkedIn**: [Rendyll Ryan Cabardo](https://www.linkedin.com/in/rendyllcabardo/)  
-- 💬 **Twitter**: [@rendyll_dev](https://twitter.com/rendyll_dev) *(Optional)*  
+- 🔗 **Facebook**: [Rendyll Ryan Cabardo](https://web.facebook.com/rendyllryan.cabardo?_rdc=1&_rdr#)  
 - 🌐 **Portfolio/Website**: *(Optional)*  
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
