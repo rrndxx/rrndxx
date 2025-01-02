@@ -14,6 +14,9 @@ I am currently studying at Cebu Roosevelt Memorial Colleges (CRMC) and is curren
 * 🤝  I'm open to collaborating on any interesting projects.
 * ⚡  I'm eager to learn through efficient ways.
 
+<a href="https://www.github.com/rrndxx" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rrndxx?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
+
 ### Skills
 
 
@@ -31,6 +34,8 @@ I am currently studying at Cebu Roosevelt Memorial Colleges (CRMC) and is curren
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rrndxx"><img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="rrndxx's GitHub stats" /></a>
+
+<a href="http://www.github.com/rrndxx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&stroke=14b8a6&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <a href="https://github.com/rrndxx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
