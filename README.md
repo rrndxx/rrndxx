@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Gradient Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=ffffff&width=650&lines=Information+Technology+Student;Aspiring+Software+Developer&center=true&vCenter=true" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 20px; padding: 25px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);" />
+<!-- Gradient Banner with Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=ffffff&width=650&lines=Information+Technology+Student;Aspiring+Software+Developer" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 20px; padding: 25px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);" />
 
 <br/>
 
-<!-- Profile Image with Shadow -->
+<!-- Profile Image -->
 <img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; margin-top: -80px; box-shadow: 0 10px 25px rgba(0,0,0,0.25);" alt="Rendyll Ryan Cabardo" />
 
 <br/>
@@ -87,6 +87,15 @@ I focus on writing **clean, maintainable code** and building **practical applica
 - RESTful API integration  
 - Version control & collaborative workflows  
 - Scalable and maintainable code practices  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</div>
 
 ---
 
