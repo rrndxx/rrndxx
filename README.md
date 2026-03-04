@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/your-photo.png" width="140" style="border-radius: 50%;" alt="Rendyll Ryan Cabardo" />
+<img src="https://drive.google.com/file/d/1RsF3EsF-PI47emDqh5YGUR6QGlifeA3a/view?usp=sharing" width="140" style="border-radius: 50%;" alt="Rendyll Ryan Cabardo" />
 
 # Rendyll Ryan Cabardo
 
