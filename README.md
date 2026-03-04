@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Banner with gradient background -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=ffffff&width=600&lines=Information+Technology+Student;Aspiring+Software+Developer&center=true&vCenter=true" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 15px; padding: 20px;"/>
+<!-- Gradient Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=ffffff&width=650&lines=Information+Technology+Student;Aspiring+Software+Developer&center=true&vCenter=true" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 20px; padding: 25px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);" />
 
 <br/>
 
-<!-- Profile Image -->
-<img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; margin-top: -70px;" alt="Rendyll Ryan Cabardo" />
+<!-- Profile Image with Shadow -->
+<img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; margin-top: -80px; box-shadow: 0 10px 25px rgba(0,0,0,0.25);" alt="Rendyll Ryan Cabardo" />
 
 <br/>
 
@@ -21,16 +21,16 @@ Building reliable, scalable, and maintainable software solutions.
 
 <!-- Social Badges -->
 <a href="https://linkedin.com/in/rendyll" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/rrndxx" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://facebook.com/rendyllryan.cabardo" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://instagram.com/rrndxx" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -42,7 +42,7 @@ Building reliable, scalable, and maintainable software solutions.
 I am an **Information Technology student** with hands-on experience in **modern web and mobile development**.  
 Strong foundation in **software design, databases, and component-based architecture**.
 
-Focused on writing **clean, maintainable code** and building **practical applications** that solve real-world problems.
+I focus on writing **clean, maintainable code** and building **practical applications** that solve real-world problems.
 
 ---
 
