@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" style="border-radius: 50%;" alt="Rendyll Ryan Cabardo" />
+<!-- Banner with gradient background -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=ffffff&width=600&lines=Information+Technology+Student;Aspiring+Software+Developer&center=true&vCenter=true" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 15px; padding: 20px;"/>
+
+<br/>
+
+<!-- Profile Image -->
+<img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; margin-top: -70px;" alt="Rendyll Ryan Cabardo" />
+
+<br/>
 
 # Rendyll Ryan Cabardo
 
@@ -11,14 +19,18 @@ Building reliable, scalable, and maintainable software solutions.
 
 <br/>
 
+<!-- Social Badges -->
 <a href="https://linkedin.com/in/rendyll" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/rrndxx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://facebook.com/rendyllryan.cabardo" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://instagram.com/rrndxx" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -27,9 +39,10 @@ Building reliable, scalable, and maintainable software solutions.
 
 ## 👤 Profile
 
-Information Technology student with hands-on experience in modern web and mobile development. Strong foundation in software design, database systems, and component-based architecture.
+I am an **Information Technology student** with hands-on experience in **modern web and mobile development**.  
+Strong foundation in **software design, databases, and component-based architecture**.
 
-Focused on writing clean, maintainable code and building practical applications that solve real-world problems.
+Focused on writing **clean, maintainable code** and building **practical applications** that solve real-world problems.
 
 ---
 
@@ -79,4 +92,4 @@ Focused on writing clean, maintainable code and building practical applications 
 
 ## 🎯 Career Objective
 
-Seeking opportunities in modern web or mobile development environments where I can apply my technical skills, contribute to impactful projects, and continue growing as a software developer.
+Seeking opportunities in **modern web or mobile development environments** where I can apply my technical skills, contribute to impactful projects, and continue growing as a software developer.
