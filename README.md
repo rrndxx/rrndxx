@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/your-photo.png" width="140" style="border-radius: 50%;" alt="Rendyll Ryan Cabardo" />
+
 # Rendyll Ryan Cabardo
 
 **Information Technology Student**  
@@ -9,10 +11,18 @@ Building reliable, scalable, and maintainable software solutions.
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/rendyll) • 
-[GitHub](https://github.com/rrndxx) • 
-[Facebook](https://facebook.com/rendyllryan.cabardo) • 
-[Instagram](https://instagram.com/rrndxx)
+<a href="https://linkedin.com/in/rendyll" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rrndxx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://facebook.com/rendyllryan.cabardo" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/rrndxx" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -73,10 +83,3 @@ Focused on writing clean, maintainable code and building practical applications 
 ## 🎯 Career Objective
 
 Seeking opportunities in modern web or mobile development environments where I can apply my technical skills, contribute to impactful projects, and continue growing as a software developer.
-
----
-
-## 📫 Contact
-
-**Email:** rendyllcabardo11@gmail.com  
-**Location:** Philippines  
