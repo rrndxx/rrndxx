@@ -1,187 +1,142 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=300&text=RENDYLL%20RYAN%20CABARDO&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=44&desc=Information%20Technology%20%E2%80%94%20Full-Stack%20%26%20Mobile%20Developer&descSize=14&descColor=444444&descAlign=50&descAlignY=63" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=220&text=RENDYLL%20RYAN%20CABARDO&fontSize=42&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=14&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
 
-<br>
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelColor=ffffff)](https://linkedin.com/in/rendyll)&ensp;[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000&labelColor=ffffff)](https://github.com/rrndxx)&ensp;[![Instagram](https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=000000&labelColor=ffffff)](https://instagram.com/rrndxx)&ensp;[![Facebook](https://img.shields.io/badge/FACEBOOK-ffffff?style=flat-square&logo=facebook&logoColor=000000&labelColor=ffffff)](https://facebook.com/rendyllryan.cabardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrndxx)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rendyllryan.cabardo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rrndxx)
 
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
+</div>
+
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="36%" valign="top">
+### 〉ABOUT ME
 
-```
-LOCATION  Iligan City, PH
-DEGREE    BSc Information Technology
-STATUS    Open to opportunities
-BIAS      Action over analysis
-```
+<br/>
 
-</td>
-<td width="6%"></td>
-<td width="58%" valign="top">
+IT Student based in the **Philippines**, focused on building software that is fast, readable, and built to last. I care deeply about clean architecture, component design, and writing code that others can actually maintain.
 
-I build **full-stack web** and **cross-platform mobile** systems — focused on clean architecture, reusable components, and code that holds up under real conditions.
+Currently exploring full-stack web and cross-platform mobile development — always learning, always shipping.
 
-Not chasing trends. Chasing craft. I write every line like someone else has to maintain it.
+> *Clean code. Real impact. Repeat.*
 
-</td>
-</tr>
-</table>
-
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<table width="100%" border="0" cellpadding="4" cellspacing="0">
-<tr>
-<td width="16%" valign="middle"><sub><b>LANGUAGES</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark&perline=12" height="36" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="16%" valign="middle"><sub><b>FRONTEND</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=12" height="36" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="16%" valign="middle"><sub><b>MOBILE</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark&perline=12" height="36" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="16%" valign="middle"><sub><b>DATABASE</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=12" height="36" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="16%" valign="middle"><sub><b>TOOLS</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=12" height="36" /></td>
-</tr>
-</table>
+### 〉LANGUAGES & TOOLS
 
-<br>
-
----
-
-<br>
-
-**SELECTED WORK**
-
-<br>
-
-<table width="100%" border="0" cellpadding="6" cellspacing="0">
-<tr>
-<td width="4%"><sub>NO</sub></td>
-<td width="28%"><sub>PROJECT</sub></td>
-<td width="32%"><sub>STACK</sub></td>
-<td><sub>DESCRIPTION</sub></td>
-</tr>
-<tr><td colspan="4"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
-<tr>
-<td valign="top"><b>01</b></td>
-<td valign="top"><b>Full-Stack Web App</b></td>
-<td valign="top"><code>React · PHP · MySQL</code></td>
-<td>Responsive client portal with normalized relational DB, REST API layer, and role-based access control</td>
-</tr>
-<tr><td colspan="4"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
-<tr>
-<td valign="top"><b>02</b></td>
-<td valign="top"><b>Cross-Platform Mobile</b></td>
-<td valign="top"><code>Flutter · Firebase</code></td>
-<td>iOS & Android app with Firebase Auth, Firestore real-time sync, and offline-first architecture</td>
-</tr>
-<tr><td colspan="4"><sub>──────────────────────────────────────────────────────────────────────────────────────────</sub></td></tr>
-<tr>
-<td valign="top"><b>03</b></td>
-<td valign="top"><b>Web Dashboard</b></td>
-<td valign="top"><code>Next.js · Tailwind · MongoDB</code></td>
-<td>SSR/ISR dashboard with component architecture, API routes, and MongoDB aggregation pipelines</td>
-</tr>
-</table>
-
-<br>
-
-<div align="right"><sub><a href="https://github.com/rrndxx?tab=repositories">→ all repositories</a></sub></div>
-
-<br>
-
----
-
-<br>
-
-**GITHUB ACTIVITY**
-
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=444444&text_color=555555&ring_color=333333" height="148" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=555555&langs_count=6" height="148" />
+**— LANGUAGES —**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark&perline=4" />
+
+<br/><br/>
+
+**— FRONTEND —**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
+
+<br/><br/>
+
+**— MOBILE —**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" />
+
+<br/><br/>
+
+**— DATABASES —**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=3" />
+
+<br/><br/>
+
+**— TOOLS —**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=5" />
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=rrndxx&hide_border=true&background=000000&stroke=1c1c1c&ring=ffffff&fire=888888&currStreakNum=ffffff&sideNums=555555&currStreakLabel=ffffff&sideLabels=333333&dates=333333" height="140" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&bg_color=000000&color=333333&line=444444&point=ffffff&area_color=0a0a0a&area=true&hide_border=true&custom_title=CONTRIBUTION+GRAPH" width="96%" />
-</div>
-
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<table width="100%" border="0">
-<tr>
-<td width="58%" valign="middle">
+### 〉GITHUB STATS
 
-> *Seeking roles in web or mobile development where the standard is high and the work is real. I bring curiosity, reliability, and a bias toward shipping.*
-
-</td>
-<td width="4%"></td>
-<td width="38%" valign="middle" align="right">
-
-<sub><b>OPEN TO</b></sub><br>
-<sub>Internships · Junior Dev Roles</sub><br>
-<sub>Freelance · Open Source</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
+<br/>
 
 <div align="center">
 
-<sub>RENDYLL RYAN CABARDO &nbsp;·&nbsp; Iligan City, Philippines &nbsp;·&nbsp; github.com/rrndxx</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=888888" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="155"/>
 
-<br><br>
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=000000&label=PROFILE+VIEWS&labelColor=111111)
+<img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555" height="155"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&theme=github-compact&bg_color=0d0d0d&color=888888&line=aaaaaa&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<br>
+<br/>
+
+---
+
+<br/>
+
+### 〉CAREER OBJECTIVE
+
+<br/>
+
+Seeking opportunities in **modern web or mobile development** where I can apply my technical skills, contribute to impactful products, and continue growing as a developer. I want to work on teams that care about code quality, thoughtful design, and building things that actually matter.
+
+**I bring: curiosity, reliability, and a bias toward action.**
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
+
+</div>
