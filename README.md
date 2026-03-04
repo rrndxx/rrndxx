@@ -39,28 +39,6 @@ Currently exploring full-stack web and cross-platform mobile development — alw
 
 <br/>
 
-### 〉TECH OVERVIEW
-
-<br/>
-
-<div align="center">
-
-| Domain | Stack |
-|---|---|
-| **Frontend** | React · Next.js · Tailwind CSS · shadcn/ui · HTML5 · CSS3 |
-| **Mobile** | Flutter · React Native |
-| **Backend / Lang** | PHP · Python · JavaScript · TypeScript |
-| **Databases** | MySQL · PostgreSQL · MongoDB |
-| **Tools** | Git · GitHub · VS Code · Postman · Figma |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ### 〉LANGUAGES & TOOLS
 
 <br/>
@@ -113,54 +91,6 @@ Currently exploring full-stack web and cross-platform mobile development — alw
 
 <br/>
 
-### 〉CORE COMPETENCIES
-
-<br/>
-
-<div align="center">
-
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-1a1a1a?style=flat-square&logoColor=white)
-![REST](https://img.shields.io/badge/RESTful%20API%20Integration-1a1a1a?style=flat-square&logoColor=white)
-![Component](https://img.shields.io/badge/Component--Based%20Architecture-1a1a1a?style=flat-square&logoColor=white)
-![VC](https://img.shields.io/badge/Version%20Control%20%26%20Collaboration-1a1a1a?style=flat-square&logoColor=white)
-![Scalable](https://img.shields.io/badge/Scalable%20%26%20Maintainable%20Code-1a1a1a?style=flat-square&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### 〉SELECTED PROJECTS
-
-<br/>
-
-<div align="center">
-
-| # | Project | Stack | Description |
-|---|---|---|---|
-| 01 | **Web Application** | React · PHP · MySQL | Full-stack responsive web app with REST API and database integration |
-| 02 | **Mobile App** | Flutter · Firebase | Cross-platform app with authentication and cloud storage |
-| 03 | **Full-Stack Web** | Next.js · Tailwind · MongoDB | Modern full-stack app with polished UI components |
-
-</div>
-
-<br/>
-
-<div align="right">
-
-[→ Browse all repositories](https://github.com/rrndxx?tab=repositories)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ### 〉GITHUB STATS
 
 <br/>
@@ -204,10 +134,6 @@ Seeking opportunities in **modern web or mobile development** where I can apply 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111)
-
-<br/><br/>
-
-*rendyllryan.cabardo · github.com/rrndxx · Philippines*
 
 <br/>
 
