@@ -1,29 +1,18 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=ffffff&width=650&lines=Information+Technology+Student;Aspiring+Software+Developer" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 20px; padding: 25px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);" />
+<!-- Banner with animated typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=ffffff&width=650&lines=Information+Technology+Student;Aspiring+Software+Developer" alt="Typing Animation" style="background: linear-gradient(135deg, #0A66C2, #06B6D4); border-radius: 20px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);" />
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Two-column Layout: Profile Left / Skills Right -->
-<table>
-<tr>
-
-<!-- Left Column: Profile -->
-<td width="45%" valign="top" align="center">
-
-<img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" height="140" style="border-radius:50%; object-fit:cover; box-shadow: 0 10px 25px rgba(0,0,0,0.25);" alt="Rendyll Ryan Cabardo" />
+<!-- Profile Image -->
+<img src="https://github.com/rrndxx/rrndxx/blob/main/assets/2x2%20pic.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; margin-top: -70px; box-shadow: 0 10px 25px rgba(0,0,0,0.25);" alt="Rendyll Ryan Cabardo" />
 
 <br/>
 
 # Rendyll Ryan Cabardo
-**IT Student | Aspiring Software Developer**
 
-Focused on building **clean, scalable, maintainable software solutions**.
+**Information Technology Student** • Aspiring Software Developer  
+
+Focused on building **reliable, scalable, and maintainable software solutions**.
 
 <br/>
 
@@ -41,19 +30,31 @@ Focused on building **clean, scalable, maintainable software solutions**.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-</td>
+</div>
 
-<!-- Right Column: Skills & Stats -->
-<td width="55%" valign="top" align="left">
+---
+
+## 👤 Profile
+
+I am an **Information Technology student** with hands-on experience in **modern web and mobile development**.  
+Strong foundation in **software design, databases, and component-based architecture**.
+
+I focus on writing **clean, maintainable code** and building **practical applications** that solve real-world problems.
+
+---
 
 ## 🛠 Technical Skills
 
+<div align="center">
+
+<!-- Programming -->
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+<!-- Web Development -->
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -62,15 +63,18 @@ Focused on building **clean, scalable, maintainable software solutions**.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+<!-- Mobile Development -->
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
+<!-- Databases -->
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+<!-- Tools -->
 ### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -78,16 +82,7 @@ Focused on building **clean, scalable, maintainable software solutions**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -101,18 +96,29 @@ Focused on building **clean, scalable, maintainable software solutions**.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
 ## 🎯 Career Objective
 
 Seeking opportunities in **modern web or mobile development environments** where I can apply my technical skills, contribute to impactful projects, and continue growing as a software developer.
 
 ---
 
-## 📁 Projects (Preview)
+## 📁 Projects Preview
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| Project 1 | React / PHP / MySQL | Sample web app with responsive UI and database integration |
-| Project 2 | Flutter / Firebase | Mobile app demonstrating authentication and data management |
-| Project 3 | Next.js / Tailwind / MongoDB | Full-stack web project with modern UI components |
+| Project 1 | React / PHP / MySQL | Responsive web application with database integration |
+| Project 2 | Flutter / Firebase | Mobile app with authentication and cloud storage |
+| Project 3 | Next.js / Tailwind / MongoDB | Full-stack web app with modern UI components |
 
 > Browse all my projects on [GitHub](https://github.com/rrndxx?tab=repositories)
