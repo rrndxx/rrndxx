@@ -2,96 +2,123 @@
 
 # Rendyll Ryan Cabardo
 
-### IT Student · Aspiring Developer · Tech Enthusiast
+### IT Student · Aspiring Software Developer · Tech Enthusiast
 
-*Building solutions, one line of code at a time.*
+Building practical solutions through clean code, structured thinking, and continuous learning.
 
 ---
-
-I am an Information Technology student with a strong passion for software development, systems design, and emerging technologies. I am committed to continuous learning, applying both academic knowledge and hands-on experience to build practical, meaningful solutions. My goal is to grow into a well-rounded IT professional who delivers value through clean code, critical thinking, and effective collaboration.
 
 </div>
 
+## 👋 About Me
+
+I am an Information Technology student passionate about software development, systems design, and emerging technologies. I focus on building efficient, maintainable, and user-centered solutions that solve real-world problems.
+
+My academic journey has provided me with a strong foundation in programming, web development, database systems, and software engineering principles. Beyond coursework, I actively explore new tools and technologies to strengthen my technical depth and practical experience.
+
+I am driven by curiosity, disciplined by structure, and motivated by growth.
+
 ---
 
-## 👤 About Me
+## 🎯 Career Objective
 
-I am currently pursuing a degree in Information Technology, where I have developed a solid foundation in programming, software engineering principles, web development, and database management. My academic journey has equipped me with both theoretical understanding and applied technical skills across a range of platforms and tools.
+To grow as a professional software developer or systems analyst, contribute to impactful engineering teams, and continuously improve through hands-on experience, collaboration, and technical certifications.
 
-My interests in technology span software development, back-end systems, problem-solving through algorithms, and exploring how digital tools can streamline real-world processes. I enjoy working on projects that challenge me to think critically and write efficient, maintainable code.
+---
 
-**Career Goals:** I aspire to contribute to meaningful software projects as a developer or systems analyst, collaborate within professional engineering teams, and continue growing through real-world experience and technical certifications.
+## 🧠 Core Strengths
 
-**Core Strengths:**
-- 🧠 Analytical thinking and structured problem-solving
-- 🤝 Team collaboration and clear technical communication
-- 📐 Attention to detail in design and implementation
-- 🔄 Adaptability to new tools, languages, and environments
-- 📚 Self-directed learning and initiative
+- Analytical and structured problem-solving  
+- Strong attention to clean, maintainable code  
+- Effective technical communication and teamwork  
+- Adaptability to new technologies and environments  
+- Self-directed learning and initiative  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 💻 Programming Languages
+- Python  
+- JavaScript  
+- PHP  
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### 🌐 Web Development
+- HTML5  
+- CSS3  
+- Bootstrap  
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+### 🗄️ Databases
+- MySQL  
+- SQLite  
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### ⚙️ Tools & Platforms
+- Visual Studio Code  
+- Postman  
+- Figma  
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🔄 Version Control
+- Git  
+- GitHub  
 
 ---
 
-## ⚙️ Skills
+## 🚀 Technical Skills
 
-**Technical Skills**
-- Web development (front-end and back-end fundamentals)
-- Object-oriented programming and software design principles
-- Relational database design, querying, and normalization
-- Version control with Git and collaborative workflows via GitHub
-- Basic system administration and command-line operations
-- Software documentation and technical writing
+**Software Development**
+- Object-Oriented Programming (OOP)
+- Software design principles
+- Basic algorithm design and problem-solving
+- Writing structured and maintainable code
 
-**Soft Skills**
-- Effective verbal and written communication
-- Collaborative teamwork in academic and project settings
-- Time management and meeting deadlines under pressure
-- Willingness to ask questions and give constructive feedback
-- Growth mindset and openness to criticism
+**Web Development**
+- Front-end and back-end fundamentals
+- Responsive design principles
+- REST API testing using Postman
+
+**Database Management**
+- Relational database design
+- SQL querying and normalization
+- Basic database optimization concepts
+
+**Development Workflow**
+- Version control using Git
+- Collaborative workflows via GitHub
+- Technical documentation and README writing
+
+---
+
+## 🤝 Professional Skills
+
+- Clear written and verbal communication  
+- Collaborative teamwork in academic and project settings  
+- Time management and meeting deadlines  
+- Openness to feedback and continuous improvement  
+- Growth mindset and adaptability  
 
 ---
 
 ## 📁 Projects
 
-I use this GitHub profile to document my academic coursework, personal experiments, and collaborative group projects. Every repository aims to include proper documentation — a clear README, organized file structure, and concise comments — reflecting professional development standards.
+This GitHub profile documents my academic coursework, personal experiments, and collaborative projects. Each repository is structured with:
+
+- Clear documentation  
+- Organized file structure  
+- Meaningful commit history  
+- Concise and readable code comments  
 
 | Project | Description |
-|---|---|
-| **Project 1** | Brief description of what this project does, the technologies used, and its purpose. |
-| **Project 2** | Brief description of what this project does, the technologies used, and its purpose. |
-| **Project 3** | Brief description of what this project does, the technologies used, and its purpose. |
+|----------|-------------|
+| **Project 1** | Short description explaining purpose, tech stack, and problem solved. |
+| **Project 2** | Short description explaining purpose, tech stack, and problem solved. |
+| **Project 3** | Short description explaining purpose, tech stack, and problem solved. |
 
-> 📌 Browse my [repositories](https://github.com/rrndxx?tab=repositories) for the full list of projects.
+📌 Explore all repositories here:  
+👉 https://github.com/rrndxx?tab=repositories
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -105,22 +132,29 @@ I use this GitHub profile to document my academic coursework, personal experimen
 
 ---
 
-## 🤝 Collaboration & Contact
+## 🌱 Currently Working On
 
-I am actively seeking collaboration opportunities, open-source contributions, and connections with other developers and IT professionals. Whether it is a student project, a learning initiative, or a technical discussion — I am open to it.
+- Strengthening back-end development skills  
+- Improving database optimization knowledge  
+- Building more complete, end-to-end projects  
+- Exploring best practices in scalable system design  
 
-| Channel | Details |
-|---|---|
-| 📧 Email | `rendyllcabardo11@gmail.com` |
-| 💼 LinkedIn | [linkedin.com/in/rendyll](https://linkedin.com/in/rendyll) |
-| 🐙 GitHub | [github.com/rrndxx](https://github.com/rrndxx) |
+---
+
+## 🤝 Let’s Connect
+
+I’m open to collaboration, open-source contributions, internships, and technical discussions.
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | rendyllcabardo11@gmail.com |
+| 💼 LinkedIn | https://linkedin.com/in/rendyll |
+| 🐙 GitHub | https://github.com/rrndxx |
 
 ---
 
 <div align="center">
 
 *"The best way to predict the future is to build it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&color=0e75b6&style=flat-square&label=Profile+Views)
 
 </div>
