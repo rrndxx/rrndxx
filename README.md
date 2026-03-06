@@ -31,7 +31,7 @@
 ```
 Name    : Rendyll Ryan Cabardo
 Located : Bogo City, Cebu, Philippines
-Focus   : Full-Stack Web · Mobile (Flutter)
+Focus   : Full-Stack Web · Mobile App Dev
 Status  : Open to Opportunities
 Motto   : Clean code. Real impact. Repeat.
 ```
@@ -47,9 +47,9 @@ Currently exploring **full-stack web** and **cross-platform mobile development**
 
 ```yaml
 currently_learning:
-  - Next.js App Router
-  - Flutter & Dart
-  - PostgreSQL optimization
+  - Full-Stack Development
+  - Flutter | React Native
+  - System Optimizations
 
 principles:
   - Clean code over clever code
@@ -58,8 +58,7 @@ principles:
 
 working_on:
   - Full-stack web projects
-  - Mobile apps (Flutter)
-  - Open source contributions
+  - Mobile apps
 ```
 
 </td>
@@ -164,7 +163,7 @@ working_on:
 
 <div align="center">
 
-*Currently open to internships, freelance projects, and junior developer roles.*
+*Currently open to freelance projects, and junior developer roles.*
 
 <br/>
 
