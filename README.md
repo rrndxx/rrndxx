@@ -17,6 +17,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." />
 
 </div>
+
+</div>
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/> </div>
 
 ---
