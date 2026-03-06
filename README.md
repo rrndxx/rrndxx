@@ -1,4 +1,4 @@
-<!-- Social badges aligned left -->
+<!-- Social badges aligned right -->
 <p align="right">
   <a href="https://www.linkedin.com/in/rendyll">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -12,17 +12,24 @@
 </p>
 
 <!-- Centered name and typing animation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=250&text=Rendyll%20Ryan%20Cabardo&font=Fira+Code&fontSize=42&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=16&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
+<div align="center">
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" /> </div>
+<h1 style="font-size:56px; font-weight:bold; margin:0; line-height:1.2;">Rendyll Ryan Cabardo</h1>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Information+Technology+%E2%80%A2+Aspiring+Software+Developer;Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" style="margin-top:10px;" />
+
+</div>
+
+<!-- Divider -->
+<hr style="border:1px solid #2c2c2c; margin:30px 0;">
 
 ## 〉ABOUT ME
 
-IT Student based in **Bogo City, Cebu, Philippines**, focused on building software that is **fast, readable, and built to last**. I care deeply about clean architecture, component design, and writing code that others can maintain.
+I am an **IT Student** based in **Bogo City, Cebu, Philippines**, passionate about building software that is **fast, maintainable, and scalable**.  
 
-Currently exploring **full-stack web** and **cross-platform mobile development** — always learning, always shipping.
+I focus on clean architecture, modular design, and code that **others can easily maintain and extend**.  
+
+Currently exploring **full-stack web** and **cross-platform mobile development**, always learning, always shipping.  
 
 > *Clean code. Real impact. Repeat.*
 
@@ -33,23 +40,18 @@ Currently exploring **full-stack web** and **cross-platform mobile development**
 <div align="center">
 
 ### — Languages —
-
 <img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark&perline=4" />
 
 ### — Frontend —
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
 
 ### — Mobile —
-
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=1" />
 
 ### — Databases —
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=3" />
 
 ### — Tools —
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=5" />
 
 </div>
@@ -60,15 +62,15 @@ Currently exploring **full-stack web** and **cross-platform mobile development**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=888888" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=888888" height="160" style="margin-right:10px;"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="160"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555" height="155"/>
+<img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555" height="160" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&theme=github-compact&bg_color=0d0d0d&color=888888&line=aaaaaa&point=ffffff&area=true&hide_border=true" width="95%"/>
 
@@ -78,11 +80,11 @@ Currently exploring **full-stack web** and **cross-platform mobile development**
 
 ## 〉CAREER OBJECTIVE
 
-Seeking opportunities in **modern web or mobile development** where I can apply my technical skills, contribute to impactful products, and continue growing as a developer.
+I aim to work in **modern web or mobile development** where I can contribute to impactful products while continuing to **grow as a developer**.  
 
-I want to work with teams that care about **code quality, thoughtful design, and building things that matter**.
+I seek teams that care about **code quality, thoughtful design, and building meaningful software**.  
 
-**I bring:** curiosity, reliability, and a bias toward action.
+**Core strengths:** curiosity, reliability, and a bias toward action.
 
 ---
 
