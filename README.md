@@ -1,18 +1,22 @@
-<div align="right">
-  
+<table width="100%">
+<tr>
+<td align="left">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111)
 
-</div>
+</td>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=250&text=RENDYLL%20RYAN%20CABARDO&fontSize=42&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=14&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
-
-<div align="center">
+<td align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/rendyll)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rendyllryan.cabardo)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 
-</div>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=250&text=RENDYLL%20RYAN%20CABARDO&fontSize=42&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=14&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
 
 <div align="center">
 
