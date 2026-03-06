@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=220&text=RENDYLL%20RYAN%20CABARDO&fontSize=42&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=14&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
 
 <br/>
@@ -5,7 +7,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrndxx)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rendyllryan.cabardo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rrndxx)
 
@@ -19,6 +20,12 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
+
+</div>
+
 ---
 
 <br/>
@@ -27,7 +34,7 @@
 
 <br/>
 
-IT Student based in the **Philippines**, focused on building software that is fast, readable, and built to last. I care deeply about clean architecture, component design, and writing code that others can actually maintain.
+IT Student based in **Bogo City, Cebu, Philippines**, focused on building software that is fast, readable, and built to last. I care deeply about clean architecture, component design, and writing code that others can actually maintain.
 
 Currently exploring full-stack web and cross-platform mobile development — always learning, always shipping.
 
@@ -131,12 +138,4 @@ Seeking opportunities in **modern web or mobile development** where I can apply 
 
 <br/>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
-
-</div>
