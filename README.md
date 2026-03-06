@@ -1,20 +1,18 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="left">
+<p align="left">
+  <a href="https://linkedin.com/rendyll">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://facebook.com/rendyllryan.cabardo">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:rendyllcabardo11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/rendyll)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rendyllryan.cabardo)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
-
-</td>
-
-<td align="right">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111)
-
-</td>
-</tr>
-</table>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rrndxx&style=flat-square&color=555555&label=PROFILE+VIEWS&labelColor=111111">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=250&text=RENDYLL%20RYAN%20CABARDO&fontSize=42&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=14&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
 
