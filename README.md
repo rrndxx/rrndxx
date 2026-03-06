@@ -103,11 +103,9 @@ working_on:
 
 ## `$ git log --stats`
 
-<br/>
-
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/rrndxx">
   <img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=eeeeee&fire=aaaaaa&currStreakLabel=eeeeee&sideLabels=777777&dates=444444" height="150"/>
