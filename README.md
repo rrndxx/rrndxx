@@ -107,14 +107,6 @@ working_on:
 
 <div align="center">
 
-<a href="https://github.com/rrndxx">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&icon_color=777777&text_color=777777&ring_color=eeeeee" height="160"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rrndxx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&text_color=777777" height="160"/>
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/rrndxx">
