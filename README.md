@@ -12,9 +12,11 @@
 
 <div align="center">
 
-<h1>Rendyll Ryan Cabardo</h1>
+<p style="font-size:48px; font-weight:bold; margin:0;">Rendyll Ryan Cabardo</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." />
+
+</div>
 
 </div>
 
