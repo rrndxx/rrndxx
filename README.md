@@ -1,5 +1,6 @@
-<p align="left">
-  <a href="https://linkedin.com/rendyll">
+<!-- Social badges aligned left -->
+<p align="right">
+  <a href="https://www.linkedin.com/in/rendyll">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://facebook.com/rendyllryan.cabardo">
@@ -10,19 +11,19 @@
   </a>
 </p>
 
+<!-- Centered name and typing animation -->
 <div align="center">
 
 <p style="font-size:48px; font-weight:bold; margin:0;">Rendyll Ryan Cabardo</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
 
 </div>
 
+<!-- Footer waving animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
 </div>
-
-</div>
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/> </div>
 
 ---
 
