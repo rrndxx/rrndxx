@@ -14,7 +14,7 @@
 <!-- Centered name and typing animation -->
 <div align="center">
 
-<p style="font-size:48px; font-weight:bold; margin:0;">Rendyll Ryan Cabardo</p>
+<h1 style="margin:0; font-size:48px;">Rendyll Ryan Cabardo</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
 
