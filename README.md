@@ -14,7 +14,7 @@
 <!-- Centered name and typing animation -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=250&text=Rendyll%20Ryan%20Cabardo&font=Fira+Code&fontSize=32&fontColor=ffffff&desc=Information%20Technology%20%E2%80%A2%20Aspiring%20Software%20Developer&descSize=16&descColor=aaaaaa&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=65" width="100%" />
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=BUILDING+RELIABLE%2C+SCALABLE%2C+AND+MAINTAINABLE+SOFTWARE;CLEAN+CODE+REAL+IMPACT+ALWAYS+IMPROVING." alt="Typing SVG" /> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
 
 ---
 
