@@ -1,95 +1,179 @@
-<!-- Social badges aligned right -->
-<p align="right">
-  <a href="https://www.linkedin.com/in/rendyll">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://facebook.com/rendyllryan.cabardo">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="mailto:rendyllcabardo11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<div align="right">
 
-<!-- Centered name and typing animation -->
-<div align="center">
-
-<h1 style="font-size:56px; font-weight:bold; margin:0; line-height:1.2;">Rendyll Ryan Cabardo</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Information+Technology+%E2%80%A2+Aspiring+Software+Developer;Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" style="margin-top:10px;" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rendyll)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rendyllryan.cabardo)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
 
-<!-- Divider -->
-<hr style="border:1px solid #2c2c2c; margin:30px 0;">
+<br/>
 
-## 〉ABOUT ME
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:111111,100:0a0a0a&height=220&text=RENDYLL%20RYAN%20CABARDO&font=Fira+Code&fontSize=38&fontColor=f0f0f0&desc=Information%20Technology%20%20%E2%80%A2%20%20Software%20Developer&descSize=15&descColor=666666&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=44&descAlignY=66" width="100%" />
 
-I am an **IT Student** based in **Bogo City, Cebu, Philippines**, passionate about building software that is **fast, maintainable, and scalable**.  
+<br/>
 
-I focus on clean architecture, modular design, and code that **others can easily maintain and extend**.  
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2000&color=777777&center=true&vCenter=true&width=620&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+architecture.+Thoughtful+design.+Real+impact.;Always+learning.+Always+shipping." />
+</div>
 
-Currently exploring **full-stack web** and **cross-platform mobile development**, always learning, always shipping.  
-
-> *Clean code. Real impact. Repeat.*
+<br/>
 
 ---
 
-## 〉LANGUAGES & TOOLS
+<br/>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## `$ whoami`
+
+```
+Name    : Rendyll Ryan Cabardo
+Located : Bogo City, Cebu, Philippines
+Focus   : Full-Stack Web · Mobile (Flutter)
+Status  : Open to Opportunities
+Motto   : Clean code. Real impact. Repeat.
+```
+
+IT student focused on building software that is **fast, readable, and built to last**. I care deeply about clean architecture, component design, and writing code that others can maintain and extend.
+
+Currently exploring **full-stack web** and **cross-platform mobile development** — always learning, always shipping.
+
+</td>
+<td width="42%" valign="top">
+
+## `$ cat interests.txt`
+
+```yaml
+currently_learning:
+  - Next.js App Router
+  - Flutter & Dart
+  - PostgreSQL optimization
+
+principles:
+  - Clean code over clever code
+  - Ship early, iterate fast
+  - Test what matters
+
+working_on:
+  - Full-stack web projects
+  - Mobile apps (Flutter)
+  - Open source contributions
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ ls ./tech-stack`
+
+<br/>
 
 <div align="center">
 
-### — Languages —
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark&perline=4" />
 
-### — Frontend —
+<br/><br/>
+
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
 
-### — Mobile —
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=1" />
+<br/><br/>
 
-### — Databases —
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=3" />
+**Mobile &nbsp;·&nbsp; Databases &nbsp;·&nbsp; Tools**
 
-### — Tools —
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=flutter,mysql,postgres,mongodb,git,github,vscode,postman,figma&theme=dark&perline=9" />
 
 </div>
 
+<br/>
+
 ---
 
-## 〉GITHUB STATS
+<br/>
+
+## `$ git log --stats`
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=888888" height="160" style="margin-right:10px;"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="160"/>
+<a href="https://github.com/rrndxx">
+  <img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&icon_color=777777&text_color=777777&ring_color=eeeeee" height="160"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rrndxx">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&text_color=777777" height="160"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=888888&dates=555555" height="160" />
+<a href="https://github.com/rrndxx">
+  <img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=eeeeee&fire=aaaaaa&currStreakLabel=eeeeee&sideLabels=777777&dates=444444" height="150"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&theme=github-compact&bg_color=0d0d0d&color=888888&line=aaaaaa&point=ffffff&area=true&hide_border=true" width="95%"/>
+<a href="https://github.com/rrndxx">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&theme=github-compact&bg_color=0d0d0d&color=666666&line=888888&point=eeeeee&area=true&hide_border=true" width="96%"/>
+</a>
 
 </div>
 
----
-
-## 〉CAREER OBJECTIVE
-
-I aim to work in **modern web or mobile development** where I can contribute to impactful products while continuing to **grow as a developer**.  
-
-I seek teams that care about **code quality, thoughtful design, and building meaningful software**.  
-
-**Core strengths:** curiosity, reliability, and a bias toward action.
+<br/>
 
 ---
+
+<br/>
+
+## `$ cat career-objective.md`
+
+<br/>
+
+> Seeking opportunities in **modern web or mobile development** where I can apply my technical skills, contribute to impactful products, and continue growing as a developer.
+>
+> I want to work with teams that care about **code quality, thoughtful design, and building things that matter**.
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
+| 🎯 What I bring | 💡 What I value |
+|:---:|:---:|
+| Curiosity & reliability | Code quality |
+| Bias toward action | Thoughtful design |
+| Clean, maintainable code | Continuous learning |
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+*Currently open to internships, freelance projects, and junior developer roles.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rendyll)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Send%20me%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:080808&height=90&section=footer" width="100%"/>
