@@ -10,13 +10,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/rendyll)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rendyllryan.cabardo)
-[![Email](https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=666666&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+code.+Real+impact.+Always+shipping." alt="Typing SVG" />
 
 </div>
 
