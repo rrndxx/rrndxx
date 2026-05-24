@@ -8,12 +8,12 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:111111,100:0a0a0a&height=220&text=RENDYLL%20RYAN%20CABARDO&font=Fira+Code&fontSize=38&fontColor=f0f0f0&desc=Information%20Technology%20%20%E2%80%A2%20%20Software%20Developer&descSize=15&descColor=666666&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=44&descAlignY=66" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:111111,100:0a0a0a&height=220&text=RENDYLL%20RYAN%20CABARDO&font=Fira+Code&fontSize=38&fontColor=f0f0f0&desc=BSIT%2C%20Magna%20Cum%20Laude%20%E2%80%A2%20Full-Stack%20Developer&descSize=15&descColor=666666&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=44&descAlignY=66" width="100%" />
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2000&color=777777&center=true&vCenter=true&width=620&lines=Building+reliable%2C+scalable%2C+and+maintainable+software.;Clean+architecture.+Thoughtful+design.+Real+impact.;Always+learning.+Always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2000&color=777777&center=true&vCenter=true&width=700&lines=BSIT+Graduate%2C+Magna+Cum+Laude+%E2%80%94+CRMC+%C2%B7+2026;Building+full-stack+systems+from+APIs+to+responsive+UIs.;Clean+architecture.+Clear+interfaces.+Real+impact." />
 </div>
 
 <br/>
@@ -31,34 +31,28 @@
 ```
 Name    : Rendyll Ryan Cabardo
 Located : Bogo City, Cebu, Philippines
-Focus   : Full-Stack Web · Mobile App Dev
-Status  : Open to Opportunities
+Focus   : Full-Stack Web Development
+Status  : Open to Work
 Motto   : Clean code. Real impact. Repeat.
 ```
 
-IT student focused on building software that is **fast, readable, and built to last**. I care deeply about clean architecture, component design, and writing code that others can maintain and extend.
-
-Currently exploring **full-stack web** and **cross-platform mobile development** — always learning, always shipping.
+BSIT graduate (**Magna Cum Laude**, CRMC 2026) building full-stack systems — from real-time network monitors to inventory platforms. I care deeply about **clean architecture, database design, and clear interfaces** that help people work with better visibility and control.
 
 </td>
 <td width="42%" valign="top">
 
-## `$ cat interests.txt`
+## `$ cat stats.txt`
 
 ```yaml
-currently_learning:
-  - Full-Stack Development
-  - Flutter | React Native
-  - System Optimizations
+years_building  : 2.5+
+major_projects  : 3
+graduated       : Magna Cum Laude
+typical_reply   : 24h
 
-principles:
-  - Clean code over clever code
-  - Ship early, iterate fast
-  - Test what matters
-
-working_on:
-  - Full-stack web projects
-  - Mobile apps
+open_to:
+  - Junior developer roles
+  - Internships
+  - Freelance projects
 ```
 
 </td>
@@ -77,23 +71,82 @@ working_on:
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark&perline=4" />
-
-<br/><br/>
-
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,html,css&theme=dark&perline=6" />
 
 <br/><br/>
 
-**Mobile &nbsp;·&nbsp; Databases &nbsp;·&nbsp; Tools**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=flutter,mysql,postgres,mongodb,git,github,vscode,postman,figma&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,python,php&theme=dark&perline=5" />
+
+<br/><br/>
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,supabase,docker&theme=dark&perline=6" />
+
+<br/><br/>
+
+**Workflow & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=5" />
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ ls ./projects`
+
+<br/>
+
+### `01` · NetDetect — Network Monitoring System
+> **Capstone · 2025–2026**
+
+Centralized network monitoring for CRMC with real-time device visibility, bandwidth analytics, intrusion detection, and remote administration. Helps campus administrators detect unauthorized devices faster and understand network activity from one dashboard.
+
+**Stack:** `React` `TypeScript` `FastAPI` `Docker` `Redis` `PostgreSQL` `Express`
+
+**Key features:**
+- Real-time device monitoring
+- Bandwidth analytics
+- Remote admin controls
+- Intrusion detection workflow
+
+---
+
+### `02` · Everyshelf — Inventory Management System
+> **Systems Development · 2024–2025**
+
+Inventory platform for stock batches, dispatch records, sales monitoring, and raw material supplier tracking. Turns scattered inventory work into a structured workflow.
+
+**Stack:** `Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
+
+**Key features:**
+- Batch dispatching
+- Sales dashboard
+- Supplier records
+- Live inventory sync
+
+---
+
+### `03` · QR Wise Clinics — Clinic Management System
+> **Client Project · 2025**
+
+Clinic operations platform for appointments, patient records, scheduling, memberships, inventory management, and transaction tracking. Centralizes daily clinic workflows into one system.
+
+**Stack:** `Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
+
+**Key features:**
+- Appointment scheduling
+- Patient management
+- Inventory tracking
+- Membership & package management
 
 <br/>
 
@@ -125,13 +178,43 @@ working_on:
 
 <br/>
 
+## `$ cat achievements.md`
+
+<br/>
+
+<div align="center">
+
+| # | Category | Achievement | Org | Year |
+|:---:|:---:|:---|:---:|:---:|
+| 🎓 | Academic | **Magna Cum Laude Graduate** | CRMC | 2026 |
+| 📋 | Professional | **CSE-Professional Passer** | Civil Service Commission | 2026 |
+| 📚 | Academic | **Consistent Dean's List Scholar** | CRMC | 2022–2026 |
+| 💻 | Technical | **Full-Stack Developer of the Year** | CRMC | 2026 |
+| 🏅 | Leadership | **Leadership Awardee** | CRMC | 2026 |
+| 🏢 | Professional | **Outstanding Intern as Developer** | CRMC | 2026 |
+| 🎨 | Technical | **Multimedia Wizard Awardee** | CRMC | 2026 |
+| 🔧 | Technical | **Best in PC Troubleshooting** | CRMC | 2026 |
+| 🌐 | Technical | **Networking Excellence Awardee** | CRMC | 2026 |
+| 🏆 | Competition | **5th Placer — National ISITE Quiz Bowl** | PSITE | 2025 |
+| 🏆 | Competition | **5th Placer — CESAFI Computer Quiz Bowl** | CESAFI | 2025 |
+| 🥈 | Competition | **2nd Placer — Sci-Math Quiz Bowl** | CRMC | 2026 |
+| 🥈 | Competition | **2nd Placer — Word Warpathon** | CRMC | 2026 |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## `$ cat career-objective.md`
 
 <br/>
 
-> Seeking opportunities in **modern web or mobile development** where I can apply my technical skills, contribute to impactful products, and continue growing as a developer.
+> BSIT graduate (Magna Cum Laude, CRMC 2026) with hands-on experience across the full stack — from database design and REST APIs to responsive UIs. I'm seeking **junior roles, internships, or freelance projects** where I can contribute to impactful systems and keep growing as a developer.
 >
-> I want to work with teams that care about **code quality, thoughtful design, and building things that matter**.
+> I want to work with teams that value **clean architecture, thoughtful design, and software that solves real problems**.
 
 <br/>
 
@@ -139,9 +222,9 @@ working_on:
 
 | 🎯 What I bring | 💡 What I value |
 |:---:|:---:|
-| Curiosity & reliability | Code quality |
-| Bias toward action | Thoughtful design |
-| Clean, maintainable code | Continuous learning |
+| Full-stack experience | Clean architecture |
+| Academic & technical excellence | Thoughtful, clear interfaces |
+| Bias toward action | Continuous learning |
 
 </div>
 
@@ -153,13 +236,15 @@ working_on:
 
 <div align="center">
 
-*Currently open to freelance projects, and junior developer roles.*
+*Open to junior roles, internships, and freelance projects · Usually replies within 24h*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rendyll)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send%20me%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23111111.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rendyll.dev)
 
 <br/>
 
