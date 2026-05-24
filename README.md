@@ -244,7 +244,7 @@ Clinic operations platform for appointments, patient records, scheduling, member
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send%20me%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23111111.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rendyll.dev)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23111111.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://rendyll.dev](https://rrndxx.netlify.app/))
 
 <br/>
 
