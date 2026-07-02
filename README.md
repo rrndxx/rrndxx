@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:111111,100:0a0a0a&height=220&text=RENDYLL%20RYAN%20CABARDO&font=Fira+Code&fontSize=38&fontColor=f0f0f0&desc=BSIT%2C%20Magna%20Cum%20Laude%20%E2%80%A2%20Full-Stack%20Developer&descSize=15&descColor=666666&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=44&descAlignY=66" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:111111,100:0a0a0a&height=220&text=RENDYLL%20RYAN%20CABARDO&font=Fira+Code&fontSize=38&fontColor=f0f0f0&desc=BSIT%2C%20Magna%20Cum%20Laude%20%E2%80%A2%20Full-Stack%20Developer&descSize=15&descColor=666666&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=44&descAlignY=66" width="100%" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2000&color=777777&center=true&vCenter=true&width=700&lines=BSIT+Graduate%2C+Magna+Cum+Laude+%E2%80%94+CRMC+%C2%B7+2026;Building+full-stack+systems+from+APIs+to+responsive+UIs.;Clean+architecture.+Clear+interfaces.+Real+impact." />
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
