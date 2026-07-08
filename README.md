@@ -79,12 +79,6 @@ A clinic management platform for appointments, patient records, memberships, inv
 <div align="center">
 
 <a href="https://github.com/rrndxx">
-<img src="https://streak-stats.demolab.com?user=rrndxx&theme=github-dark-blue&hide_border=true"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/rrndxx">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&theme=github-compact&hide_border=true"/>
 </a>
 
