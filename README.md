@@ -16,7 +16,7 @@ Building modern web applications with clean architecture, thoughtful UI, and sca
 
 ## About
 
-I'm a full-stack developer who enjoys designing software that is simple to use and easy to maintain. Most of my work focuses on React, Next.js, FastAPI, PostgreSQL, and TypeScript.
+I'm a full-stack developer who enjoys building software that is simple to use, maintain, and scale. My work spans modern frontend development, backend APIs, databases, and infrastructure using technologies like React, Next.js, NestJS, FastAPI, PostgreSQL, and TypeScript.
 
 Currently open to junior developer roles, internships, and freelance opportunities.
 
@@ -30,11 +30,15 @@ Currently open to junior developer roles, internships, and freelance opportuniti
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,python,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,express,python,php&theme=dark"/>
 
 ### Database & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,firebase,docker&theme=dark"/>
+
+<p>
+<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" />
+</p>
 
 ### Tools
 
