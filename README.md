@@ -1,78 +1,94 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=RENDYLL%20RYAN%20CABARDO&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Lvl.%2022%20Full-Stack%20Developer&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,25:1e1b4b,50:312e81,75:4c1d95,100:0a0118&height=220&section=header&text=RENDYLL%20RYAN%20CABARDO&fontSize=36&fontColor=c4b5fd&fontAlignY=32&desc=THE%20SHADOW%20FULL-STACK%20DEVELOPER&descAlignY=50&descSize=16&animation=fadeIn"/>
+
+<a href="https://github.com/rrndxx">
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+A+new+quest+has+arrived...;PLAYER+%3A+Rendyll+Ryan+Cabardo;CLASS+%3A+Full-Stack+Developer;RANK+%3A+Ascending" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1e1b4b?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://rrndxx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-312e81?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://linkedin.com/in/rendyll)
+[![Email](https://img.shields.io/badge/EMAIL-4c1d95?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
 
 <br>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                    S Y S T E M                         ║
+║──────────────────────────────────────────────────────║
+║  A Full-Stack Developer has awakened.                  ║
+║  Status window unlocked.                                ║
+╚══════════════════════════════════════════════════════╝
+```
+</div>
+
+## 🔮 Status Window
 
 <table width="100%">
 <tr>
 <td width="30%" valign="top">
 
-### 🎮 Player Card
+**PLAYER INFO**
 
 | | |
 |---|---|
+| **Name** | Rendyll Ryan Cabardo |
 | **Class** | Full-Stack Developer |
 | **Title** | BSIT, Magna Cum Laude |
-| **Region** | 🇵🇭 Philippines |
-| **Status** | 🟢 Open to Recruitment |
-| **Guild Seeking** | Junior Dev / Intern / Freelance |
+| **Origin** | 🇵🇭 Philippines |
+| **State** | 🟣 Available for Contract |
 
 </td>
 <td width="70%" valign="top">
 
-### 📜 Character Bio
+**BIO LOG**
 
-I'm a full-stack developer who levels up by building software that's simple to use, easy to maintain, and built to scale. My playstyle spans frontend interfaces, backend APIs, databases, and the infrastructure that holds it all together.
+I build software the way a hunter clears a dungeon — clean execution, no wasted moves. My focus spans frontend interfaces, backend systems, databases, and the infrastructure that holds it all together.
 
-**Actively recruiting for:** junior developer roles · internships · freelance quests
+**Currently accepting requests for:** junior developer roles · internships · freelance contracts
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🗺️_PORTFOLIO-000000?style=for-the-badge)](https://rrndxx.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/🤝_LINKEDIN-0A66C2?style=for-the-badge)](https://linkedin.com/in/rendyll)
-[![Email](https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge)](mailto:rendyllcabardo11@gmail.com)
-
-</div>
-
 <br>
 
-## ⚔️ Skill Tree
+## ⚔️ Arise — Skill Tree
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Frontend Path**
+**🗡️ Frontend Arsenal**
 
-| Skill | Level |
+| Skill | Mastery |
 |---|---|
-| React | ████████░░ 80% |
-| Next.js | █████████░ 90% |
-| TypeScript | ███████░░░ 70% |
-| Tailwind CSS | █████████░ 90% |
-| HTML / CSS | ██████████ 100% |
+| React | ▰▰▰▰▰▰▰▰▱▱ 80% |
+| Next.js | ▰▰▰▰▰▰▰▰▰▱ 90% |
+| TypeScript | ▰▰▰▰▰▰▰▱▱▱ 70% |
+| Tailwind CSS | ▰▰▰▰▰▰▰▰▰▱ 90% |
+| HTML / CSS | ▰▰▰▰▰▰▰▰▰▰ 100% |
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark"/>
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Backend Path**
+**🖤 Backend Arsenal**
 
-| Skill | Level |
+| Skill | Mastery |
 |---|---|
-| NestJS | ████████░░ 80% |
-| FastAPI | ███████░░░ 70% |
-| Node.js | █████████░ 90% |
-| Express | ████████░░ 80% |
-| Python / PHP | ██████░░░░ 60% |
+| NestJS | ▰▰▰▰▰▰▰▰▱▱ 80% |
+| FastAPI | ▰▰▰▰▰▰▰▱▱▱ 70% |
+| Node.js | ▰▰▰▰▰▰▰▰▰▱ 90% |
+| Express | ▰▰▰▰▰▰▰▰▱▱ 80% |
+| Python / PHP | ▰▰▰▰▰▰▱▱▱▱ 60% |
 
 <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,express,python,php&theme=dark"/>
 
@@ -81,15 +97,15 @@ I'm a full-stack developer who levels up by building software that's simple to u
 <tr>
 <td width="50%" valign="top">
 
-**🗃️ Support Items (Database & Infra)**
+**🌌 Support Artifacts**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,firebase,docker&theme=dark"/>
-<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meilisearch-4c1d95?style=for-the-badge&labelColor=0a0118"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🧰 Equipped Tools**
+**🛠️ Equipped Gear**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
 
@@ -99,44 +115,44 @@ I'm a full-stack developer who levels up by building software that's simple to u
 
 <br>
 
-## 🗺️ Quest Log — Completed
+## 📖 Dungeon Log — Cleared Gates
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🛰️ Quest: NetDetect
-**Difficulty:** ⭐⭐⭐⭐☆
+**🛰️ Gate: NetDetect**
+`RANK: A`
 
-Slay downtime before it spreads. A centralized network monitoring platform for campus infrastructure — real-time device visibility, bandwidth analytics, intrusion detection, and remote administration.
+A centralized network monitoring platform for campus infrastructure — real-time device visibility, bandwidth analytics, intrusion detection, and remote administration.
 
-**Loot:** `React` `TypeScript` `FastAPI` `Express` `PostgreSQL` `Redis` `Docker`
+`React` `TypeScript` `FastAPI` `Express` `PostgreSQL` `Redis` `Docker`
 
-`✅ COMPLETED`
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 Quest: Everyshelf
-**Difficulty:** ⭐⭐⭐☆☆
-
-Tame the chaos of the stockroom. An inventory management system streamlining stock monitoring, supplier management, dispatch records, and sales tracking in one dashboard.
-
-**Loot:** `Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
-
-`✅ COMPLETED`
+`◆ GATE CLEARED`
 
 </td>
 <td width="33%" valign="top">
 
-### 🩺 Quest: QR Wise Clinics
-**Difficulty:** ⭐⭐⭐⭐☆
+**📦 Gate: Everyshelf**
+`RANK: B`
 
-Heal the healers' paperwork. A clinic management platform for appointments, patient records, memberships, inventory, scheduling, and transactions.
+An inventory management system streamlining stock monitoring, supplier management, dispatch records, and sales tracking through a unified dashboard.
 
-**Loot:** `Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
+`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
 
-`✅ COMPLETED`
+`◆ GATE CLEARED`
+
+</td>
+<td width="33%" valign="top">
+
+**🩺 Gate: QR Wise Clinics**
+`RANK: A`
+
+A clinic management platform for appointments, patient records, memberships, inventory, scheduling, and transaction management.
+
+`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
+
+`◆ GATE CLEARED`
 
 </td>
 </tr>
@@ -144,32 +160,34 @@ Heal the healers' paperwork. A clinic management platform for appointments, pati
 
 <br>
 
-## 🏆 Achievements & Stats
+## 📊 Hunter Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=facc15&icon_color=facc15" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=tokyonight&hide_border=true&title_color=facc15" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&hide_border=true&bg_color=0a0118&title_color=A78BFA&icon_color=7c3aed&text_color=c4b5fd&border_color=4c1d95" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&hide_border=true&bg_color=0a0118&title_color=A78BFA&text_color=c4b5fd&border_color=4c1d95" width="35%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&theme=tokyonight&hide_border=true&ring=facc15&fire=facc15&currStreakLabel=facc15" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&hide_border=true&background=0a0118&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=6d28d9" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rrndxx&theme=onedark&no-frame=true&row=1&column=6" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rrndxx&theme=discord&no-frame=true&row=1&column=6" width="80%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-### 🕹️ Ready Player One — Let's Co-op
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%5BSYSTEM%5D+A+new+connection+request...;Let's+clear+the+next+gate+together." alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-facc15?style=for-the-badge&labelColor=0f172a)](https://rrndxx.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-facc15?style=for-the-badge&labelColor=0f172a)](https://linkedin.com/in/rendyll)
-[![Email](https://img.shields.io/badge/EMAIL-recruit_me-facc15?style=for-the-badge&labelColor=0f172a)](mailto:rendyllcabardo11@gmail.com)
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-A78BFA?style=for-the-badge&labelColor=0a0118)](https://rrndxx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-A78BFA?style=for-the-badge&labelColor=0a0118)](https://linkedin.com/in/rendyll)
+[![Email](https://img.shields.io/badge/EMAIL-message-A78BFA?style=for-the-badge&labelColor=0a0118)](mailto:rendyllcabardo11@gmail.com)
 
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,50:312e81,100:0a0118&height=120&section=footer"/>
 
 </div>
