@@ -24,6 +24,7 @@
 <div align="center">
 <img src="./assets/skill-tree.svg" width="700"/>
 </div>
+
 <div align="center">
 <img src="./assets/inventory.svg" width="700"/>
 </div>
