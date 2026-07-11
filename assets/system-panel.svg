@@ -1,1 +1,81 @@
+<svg width="700" height="130" viewBox="0 0 700 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0118"/>
+      <stop offset="50%" stop-color="#150a30"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
 
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- panel background -->
+  <rect x="2" y="2" width="696" height="126" rx="10" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanning line -->
+  <rect x="0" y="0" width="3" height="126" fill="#A78BFA" opacity="0.6" filter="url(#glow)">
+    <animate attributeName="x" values="0;697;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner ticks -->
+  <path d="M14 14 L14 26 M14 14 L26 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow)"/>
+  <path d="M686 14 L686 26 M686 14 L674 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow)"/>
+  <path d="M14 116 L14 104 M14 116 L26 116" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow)"/>
+  <path d="M686 116 L686 104 M686 116 L674 116" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow)"/>
+
+  <!-- system label -->
+  <text x="30" y="38" font-family="Trebuchet MS, sans-serif" font-size="15" letter-spacing="4" fill="#A78BFA" filter="url(#softGlow)">
+    [ SYSTEM ]
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- main message -->
+  <text x="30" y="65" font-family="Trebuchet MS, sans-serif" font-size="20" font-weight="bold" fill="#e9d5ff" filter="url(#softGlow)">
+    A new title has been earned : "Full-Stack Hunter"
+  </text>
+
+  <!-- exp label -->
+  <text x="30" y="90" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#c4b5fd">
+    EXP
+  </text>
+
+  <!-- exp bar track -->
+  <rect x="70" y="80" width="600" height="12" rx="6" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+
+  <!-- exp bar fill -->
+  <rect x="70" y="80" width="0" height="12" rx="6" fill="url(#barGrad)" filter="url(#softGlow)">
+    <animate attributeName="width" values="0;560;560" keyTimes="0;0.7;1" dur="3.5s" fill="freeze" begin="0.3s"/>
+  </rect>
+
+  <!-- bottom caption -->
+  <text x="30" y="112" font-family="Trebuchet MS, sans-serif" font-size="11" letter-spacing="1" fill="#8b7cc7">
+    STATUS : AVAILABLE FOR CONTRACT &#160;&#160;|&#160;&#160; RANK : ASCENDING
+  </text>
+</svg>
