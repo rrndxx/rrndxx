@@ -1,7 +1,8 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,25:1e1b4b,50:312e81,75:4c1d95,100:0a0118&height=220&section=header&text=RENDYLL%20RYAN%20CABARDO&fontSize=36&fontColor=c4b5fd&fontAlignY=32&desc=THE%20SHADOW%20FULL-STACK%20DEVELOPER&descAlignY=50&descSize=16&animation=fadeIn"/>
+
 <a href="https://github.com/rrndxx">
-  
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+A+new+quest+has+arrived...;PLAYER+%3A+Rendyll+Ryan+Cabardo;CLASS+%3A+Full-Stack+Developer;RANK+%3A+Ascending" alt="Typing SVG" />
 </a>
 
@@ -19,34 +20,23 @@
 
 <br>
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                    S Y S T E M                         ║
+║──────────────────────────────────────────────────────║
+║  A Full-Stack Developer has awakened.                  ║
+║  Status window unlocked.                                ║
+╚══════════════════════════════════════════════════════╝
+```
+</div>
+
 ## 🔮 Status Window
 
-<table width="100%">
-<tr>
-<td width="30%" valign="top">
-
-**PLAYER INFO**
-
-| | |
-|---|---|
-| **Name** | Rendyll Ryan Cabardo |
-| **Class** | Full-Stack Developer |
-| **Title** | BSIT, Magna Cum Laude |
-| **Origin** | 🇵🇭 Philippines |
-| **State** | 🟣 Available for Contract |
-
-</td>
-<td width="70%" valign="top">
-
-**BIO LOG**
-
-I build software the way a hunter clears a dungeon — clean execution, no wasted moves. My focus spans frontend interfaces, backend systems, databases, and the infrastructure that holds it all together.
-
-**Currently accepting requests for:** junior developer roles · internships · freelance contracts
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/status-window.svg" width="700"/>
+</div>
 
 <br>
 
@@ -108,46 +98,9 @@ I build software the way a hunter clears a dungeon — clean execution, no waste
 
 ## 📖 Dungeon Log — Cleared Gates
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**🛰️ Gate: NetDetect**
-`RANK: A`
-
-A centralized network monitoring platform for campus infrastructure — real-time device visibility, bandwidth analytics, intrusion detection, and remote administration.
-
-`React` `TypeScript` `FastAPI` `Express` `PostgreSQL` `Redis` `Docker`
-
-`◆ GATE CLEARED`
-
-</td>
-<td width="33%" valign="top">
-
-**📦 Gate: Everyshelf**
-`RANK: B`
-
-An inventory management system streamlining stock monitoring, supplier management, dispatch records, and sales tracking through a unified dashboard.
-
-`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
-
-`◆ GATE CLEARED`
-
-</td>
-<td width="33%" valign="top">
-
-**🩺 Gate: QR Wise Clinics**
-`RANK: A`
-
-A clinic management platform for appointments, patient records, memberships, inventory, scheduling, and transaction management.
-
-`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
-
-`◆ GATE CLEARED`
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/dungeon-log.svg" width="700"/>
+</div>
 
 <br>
 
