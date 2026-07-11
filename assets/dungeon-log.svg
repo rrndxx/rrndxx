@@ -1,0 +1,94 @@
+<svg width="700" height="320" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0118"/>
+      <stop offset="50%" stop-color="#150a30"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
+    <linearGradient id="borderGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <filter id="softGlow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="696" height="316" rx="10" fill="url(#bgGrad3)" stroke="url(#borderGrad3)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="0" width="3" height="316" fill="#A78BFA" opacity="0.35" filter="url(#glow3)">
+    <animate attributeName="x" values="0;697;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M14 14 L14 26 M14 14 L26 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow3)"/>
+  <path d="M686 14 L686 26 M686 14 L674 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow3)"/>
+  <path d="M14 306 L14 294 M14 306 L26 306" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow3)"/>
+  <path d="M686 306 L686 294 M686 306 L674 306" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow3)"/>
+
+  <text x="30" y="38" font-family="Trebuchet MS, sans-serif" font-size="15" letter-spacing="3" fill="#A78BFA" filter="url(#softGlow3)">
+    [ DUNGEON LOG — CLEARED GATES ]
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="240" y1="55" x2="240" y2="300" stroke="#4c1d95" stroke-width="1.5"/>
+  <line x1="470" y1="55" x2="470" y2="300" stroke="#4c1d95" stroke-width="1.5"/>
+
+  <!-- GATE 1: NetDetect -->
+  <text x="30" y="75" font-family="Trebuchet MS, sans-serif" font-size="15" font-weight="bold" fill="#f3e8ff">🛰️ NetDetect</text>
+  <text x="30" y="95" font-family="Consolas, monospace" font-size="12" fill="#fbbf24">RANK : A</text>
+
+  <text x="30" y="120" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">Real-time device visibility,</text>
+  <text x="30" y="136" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">bandwidth analytics,</text>
+  <text x="30" y="152" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">intrusion detection &amp; remote</text>
+  <text x="30" y="168" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">admin for campus</text>
+  <text x="30" y="184" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">infrastructure.</text>
+
+  <text x="30" y="208" font-family="Trebuchet MS, sans-serif" font-size="10" letter-spacing="1.5" fill="#8b7cc7">LOOT</text>
+  <text x="30" y="226" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">React · TypeScript · FastAPI</text>
+  <text x="30" y="240" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">Express · PostgreSQL · Redis</text>
+  <text x="30" y="254" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">· Docker</text>
+
+  <text x="30" y="285" font-family="Trebuchet MS, sans-serif" font-size="12" font-weight="bold" fill="#A78BFA" filter="url(#softGlow3)">◆ GATE CLEARED</text>
+
+  <!-- GATE 2: Everyshelf -->
+  <text x="260" y="75" font-family="Trebuchet MS, sans-serif" font-size="15" font-weight="bold" fill="#f3e8ff">📦 Everyshelf</text>
+  <text x="260" y="95" font-family="Consolas, monospace" font-size="12" fill="#fbbf24">RANK : B</text>
+
+  <text x="260" y="120" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">Streamlines stock</text>
+  <text x="260" y="136" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">monitoring, supplier</text>
+  <text x="260" y="152" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">management, dispatch</text>
+  <text x="260" y="168" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">records &amp; sales tracking in</text>
+  <text x="260" y="184" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">one dashboard.</text>
+
+  <text x="260" y="208" font-family="Trebuchet MS, sans-serif" font-size="10" letter-spacing="1.5" fill="#8b7cc7">LOOT</text>
+  <text x="260" y="226" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">Next.js · Supabase</text>
+  <text x="260" y="240" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">TanStack Query</text>
+  <text x="260" y="254" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">Tailwind CSS · shadcn/ui</text>
+
+  <text x="260" y="285" font-family="Trebuchet MS, sans-serif" font-size="12" font-weight="bold" fill="#A78BFA" filter="url(#softGlow3)">◆ GATE CLEARED</text>
+
+  <!-- GATE 3: QR Wise Clinics -->
+  <text x="490" y="75" font-family="Trebuchet MS, sans-serif" font-size="15" font-weight="bold" fill="#f3e8ff">🩺 QR Wise Clinics</text>
+  <text x="490" y="95" font-family="Consolas, monospace" font-size="12" fill="#fbbf24">RANK : A</text>
+
+  <text x="490" y="120" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">Handles appointments,</text>
+  <text x="490" y="136" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">patient records,</text>
+  <text x="490" y="152" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">memberships, inventory,</text>
+  <text x="490" y="168" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">scheduling &amp;</text>
+  <text x="490" y="184" font-family="Trebuchet MS, sans-serif" font-size="11.5" fill="#c4b5fd">transactions.</text>
+
+  <text x="490" y="208" font-family="Trebuchet MS, sans-serif" font-size="10" letter-spacing="1.5" fill="#8b7cc7">LOOT</text>
+  <text x="490" y="226" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">Next.js · Supabase</text>
+  <text x="490" y="240" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">TanStack Query</text>
+  <text x="490" y="254" font-family="Consolas, monospace" font-size="10.5" fill="#e9d5ff">Tailwind CSS · shadcn/ui</text>
+
+  <text x="490" y="285" font-family="Trebuchet MS, sans-serif" font-size="12" font-weight="bold" fill="#A78BFA" filter="url(#softGlow3)">◆ GATE CLEARED</text>
+</svg>

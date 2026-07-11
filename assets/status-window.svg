@@ -1,0 +1,72 @@
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0118"/>
+      <stop offset="50%" stop-color="#150a30"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
+    <linearGradient id="borderGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <filter id="softGlow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="696" height="296" rx="10" fill="url(#bgGrad2)" stroke="url(#borderGrad2)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="0" width="3" height="296" fill="#A78BFA" opacity="0.35" filter="url(#glow2)">
+    <animate attributeName="x" values="0;697;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M14 14 L14 26 M14 14 L26 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow2)"/>
+  <path d="M686 14 L686 26 M686 14 L674 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow2)"/>
+  <path d="M14 286 L14 274 M14 286 L26 286" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow2)"/>
+  <path d="M686 286 L686 274 M686 286 L674 286" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow2)"/>
+
+  <text x="30" y="38" font-family="Trebuchet MS, sans-serif" font-size="15" letter-spacing="4" fill="#A78BFA" filter="url(#softGlow2)">
+    [ STATUS WINDOW ]
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="270" y1="55" x2="270" y2="272" stroke="#4c1d95" stroke-width="1.5"/>
+
+  <!-- LEFT COLUMN: PLAYER INFO -->
+  <text x="30" y="65" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">PLAYER INFO</text>
+
+  <text x="30" y="92" font-family="Consolas, monospace" font-size="13" fill="#c4b5fd">NAME &#160;&#160;: <tspan fill="#f3e8ff">Rendyll Ryan Cabardo</tspan></text>
+  <text x="30" y="116" font-family="Consolas, monospace" font-size="13" fill="#c4b5fd">CLASS &#160;: <tspan fill="#f3e8ff">Full-Stack Developer</tspan></text>
+  <text x="30" y="140" font-family="Consolas, monospace" font-size="13" fill="#c4b5fd">TITLE &#160;: <tspan fill="#f3e8ff">BSIT, Magna Cum Laude</tspan></text>
+  <text x="30" y="164" font-family="Consolas, monospace" font-size="13" fill="#c4b5fd">ORIGIN : <tspan fill="#f3e8ff">Philippines</tspan></text>
+
+  <circle cx="34" cy="182" r="4" fill="#A78BFA" filter="url(#softGlow2)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="187" font-family="Consolas, monospace" font-size="13" fill="#c4b5fd">STATE &#160;: <tspan fill="#f3e8ff">Available for Contract</tspan></text>
+
+  <!-- RIGHT COLUMN: BIO LOG -->
+  <text x="290" y="65" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">BIO LOG</text>
+
+  <text x="290" y="90" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">I build software the way a hunter clears a</text>
+  <text x="290" y="108" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">dungeon — clean execution, no wasted moves.</text>
+  <text x="290" y="126" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">My focus spans frontend interfaces, backend</text>
+  <text x="290" y="144" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">systems, databases, and the infrastructure</text>
+  <text x="290" y="162" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">that holds it all together.</text>
+
+  <text x="290" y="192" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">ACCEPTING</text>
+  <text x="290" y="212" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">Junior dev roles · internships ·</text>
+  <text x="290" y="230" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">freelance contracts</text>
+
+  <text x="350" y="280" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="11" letter-spacing="1" fill="#8b7cc7">
+    PLAYER STATUS SYNCHRONIZED
+  </text>
+</svg>
