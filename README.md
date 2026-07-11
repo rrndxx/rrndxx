@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-312e81?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://linkedin.com/in/rendyll)
 [![Email](https://img.shields.io/badge/EMAIL-4c1d95?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](mailto:rendyllcabardo11@gmail.com)
 
+
 <a href="https://github.com/rrndxx">
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+A+new+quest+has+arrived...;PLAYER+%3A+Rendyll+Ryan+Cabardo;CLASS+%3A+Full-Stack+Developer;RANK+%3A+Ascending" alt="Typing SVG" />
 </a>
@@ -20,8 +21,6 @@
 
 <br>
 
-## ⚔️ Arise — Skill Tree
-
 <div align="center">
 <img src="./assets/skill-tree.svg" width="700"/>
 </div>
@@ -34,15 +33,11 @@
 
 <br>
 
-## 📖 Dungeon Log — Cleared Gates
-
 <div align="center">
 <img src="./assets/dungeon-log.svg" width="700"/>
 </div>
 
 <br>
-
-## 📊 Hunter Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&hide_border=true&bg_color=0a0118&title_color=A78BFA&icon_color=7c3aed&text_color=c4b5fd&border_color=4c1d95" width="48%"/>
