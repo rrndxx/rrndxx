@@ -19,20 +19,6 @@
 <br>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                    S Y S T E M                         ║
-║──────────────────────────────────────────────────────║
-║  A Full-Stack Developer has awakened.                  ║
-║  Status window unlocked.                                ║
-╚══════════════════════════════════════════════════════╝
-```
-</div>
-
-## 🔮 Status Window
-
-<div align="center">
 <img src="./assets/status-window.svg" width="700"/>
 </div>
 
