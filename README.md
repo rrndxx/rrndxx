@@ -26,39 +26,13 @@
 
 ## ⚔️ Arise — Skill Tree
 
+<div align="center">
+<img src="./assets/skill-tree.svg" width="700"/>
+</div>
+
+<br>
+
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🗡️ Frontend Arsenal**
-
-| Skill | Mastery |
-|---|---|
-| React | ▰▰▰▰▰▰▰▰▱▱ 80% |
-| Next.js | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| TypeScript | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| Tailwind CSS | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| HTML / CSS | ▰▰▰▰▰▰▰▰▰▰ 100% |
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🖤 Backend Arsenal**
-
-| Skill | Mastery |
-|---|---|
-| NestJS | ▰▰▰▰▰▰▰▰▱▱ 80% |
-| FastAPI | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| Node.js | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| Express | ▰▰▰▰▰▰▰▰▱▱ 80% |
-| Python / PHP | ▰▰▰▰▰▰▱▱▱▱ 60% |
-
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,express,python,php&theme=dark"/>
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
