@@ -1,101 +1,141 @@
-<div align="right">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
-[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://rrndxx.netlify.app)
+```
+┌─────────────────────────────────────────────┐
+│   $ whoami                                   │
+│   > rendyll_ryan_cabardo.dev                 │
+│   $ status --current                         │
+│   > open_to_work: true                       │
+└─────────────────────────────────────────────┘
+```
+
+# Hey, I'm Rendyll 👋
+
+`Full-Stack Developer` · `BSIT Magna Cum Laude` · `🇵🇭 Philippines`
+
+[![Portfolio](https://img.shields.io/badge/portfolio-rrndxx.netlify.app-000000?style=flat&logo=vercel&logoColor=white)](https://rrndxx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-rendyll-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
+[![Email](https://img.shields.io/badge/email-rendyllcabardo11-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
 
-# Rendyll Ryan Cabardo
+<br>
 
-**Full-Stack Developer** • BSIT, **Magna Cum Laude** • Philippines
+## `> cat about.md`
 
-Building modern web applications with clean architecture, thoughtful UI, and scalable backend systems.
+I build software that's simple to use, simple to maintain, and built to scale.
+My day-to-day lives across frontend interfaces, backend APIs, databases, and
+the infrastructure that ties it all together.
 
----
+Currently exploring: **junior developer roles**, **internships**, and **freelance work**.
 
-## About
+<br>
 
-I'm a full-stack developer who enjoys building software that is simple to use, maintain, and scale. My work spans modern frontend development, backend APIs, databases, and infrastructure using technologies like React, Next.js, NestJS, FastAPI, PostgreSQL, and TypeScript.
+## `> ls stack/`
 
-Currently open to junior developer roles, internships, and freelance opportunities.
+<table>
+<tr>
+<td valign="top" width="33%">
 
----
+**Frontend**
+| | |
+|---|---|
+| React | ⚛️ |
+| Next.js | ▲ |
+| TypeScript | 🔷 |
+| Tailwind CSS | 🌊 |
+| HTML / CSS | 🧱 |
 
-## Tech Stack
+</td>
+<td valign="top" width="33%">
 
-### Frontend
+**Backend**
+| | |
+|---|---|
+| NestJS | 🐈 |
+| FastAPI | ⚡ |
+| Node.js | 🟢 |
+| Express | 🚂 |
+| Python / PHP | 🐍 |
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark"/>
+</td>
+<td valign="top" width="33%">
 
-### Backend
+**Data & Infra**
+| | |
+|---|---|
+| PostgreSQL | 🐘 |
+| MySQL | 🐬 |
+| Redis | 🟥 |
+| Supabase / Firebase | 🔥 |
+| Docker | 🐳 |
+| Meilisearch | 🔍 |
 
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,express,python,php&theme=dark"/>
+</td>
+</tr>
+</table>
 
-### Database & Infrastructure
+**Tooling** — `Git` `GitHub` `VS Code` `Figma` `Postman`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,firebase,docker&theme=dark"/>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" />
-</p>
+## `> ./run --list-projects`
 
-### Tools
+<details open>
+<summary><b>🛰️ NetDetect</b> — network monitoring, but campus-wide</summary>
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
-
----
-
-## Projects
-
-### NetDetect
-
-A centralized network monitoring platform for campus infrastructure, providing real-time device visibility, bandwidth analytics, intrusion detection, and remote administration.
-
-**Stack**
+A centralized network monitoring platform for campus infrastructure — real-time
+device visibility, bandwidth analytics, intrusion detection, and remote
+administration in one dashboard.
 
 `React` `TypeScript` `FastAPI` `Express` `PostgreSQL` `Redis` `Docker`
 
----
+</details>
 
-### Everyshelf
+<details>
+<summary><b>📦 Everyshelf</b> — inventory, minus the spreadsheet chaos</summary>
+<br>
 
-An inventory management system that streamlines stock monitoring, supplier management, dispatch records, and sales tracking through a unified dashboard.
-
-**Stack**
-
-`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
-
----
-
-### QR Wise Clinics
-
-A clinic management platform for appointments, patient records, memberships, inventory, scheduling, and transaction management.
-
-**Stack**
+An inventory management system streamlining stock monitoring, supplier
+management, dispatch records, and sales tracking through one unified dashboard.
 
 `Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
 
----
+</details>
 
-## GitHub Activity
+<details>
+<summary><b>🩺 QR Wise Clinics</b> — clinic ops, digitized</summary>
+<br>
+
+A clinic management platform handling appointments, patient records,
+memberships, inventory, scheduling, and transactions.
+
+`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
+
+</details>
+
+<br>
+
+## `> git log --stats`
 
 <div align="center">
-
-<a href="https://github.com/rrndxx">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrndxx&theme=github-compact&hide_border=true"/>
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=dark&hide_border=true" width="35%"/>
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&theme=dark&hide_border=true" width="60%"/>
+</div>
+
+<br>
 
 <div align="center">
 
-Open to opportunities in Full-Stack Development.
+### `> echo "let's build something."`
 
-<a href="mailto:rendyllcabardo11@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/rendyll">LinkedIn</a> •
-<a href="https://rrndxx.netlify.app">Portfolio</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=for-the-badge)](https://rrndxx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
+[![Email](https://img.shields.io/badge/Email-reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
