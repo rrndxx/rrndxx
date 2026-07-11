@@ -24,9 +24,6 @@
 <div align="center">
 <img src="./assets/skill-tree.svg" width="700"/>
 </div>
-
-<br>
-
 <div align="center">
 <img src="./assets/inventory.svg" width="700"/>
 </div>
@@ -40,16 +37,8 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&hide_border=true&bg_color=0a0118&title_color=A78BFA&icon_color=7c3aed&text_color=c4b5fd&border_color=4c1d95" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&hide_border=true&bg_color=0a0118&title_color=A78BFA&text_color=c4b5fd&border_color=4c1d95" width="35%"/>
-</div>
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&hide_border=true&background=0a0118&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=6d28d9" width="60%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rrndxx&theme=discord&no-frame=true&row=1&column=6" width="80%"/>
 </div>
 
 <br>
