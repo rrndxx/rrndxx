@@ -1,141 +1,119 @@
 <div align="center">
 
-```
-┌─────────────────────────────────────────────┐
-│   $ whoami                                   │
-│   > rendyll_ryan_cabardo.dev                 │
-│   $ status --current                         │
-│   > open_to_work: true                       │
-└─────────────────────────────────────────────┘
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=Rendyll%20Ryan%20Cabardo&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20BSIT%20Magna%20Cum%20Laude&descAlignY=58&descSize=18"/>
 
-# Hey, I'm Rendyll 👋
+<br>
 
-`Full-Stack Developer` · `BSIT Magna Cum Laude` · `🇵🇭 Philippines`
-
-[![Portfolio](https://img.shields.io/badge/portfolio-rrndxx.netlify.app-000000?style=flat&logo=vercel&logoColor=white)](https://rrndxx.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-rendyll-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
-[![Email](https://img.shields.io/badge/email-rendyllcabardo11-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rrndxx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
 
 <br>
 
-## `> cat about.md`
+## About Me
 
-I build software that's simple to use, simple to maintain, and built to scale.
-My day-to-day lives across frontend interfaces, backend APIs, databases, and
-the infrastructure that ties it all together.
+I'm a full-stack developer based in the Philippines, focused on building software that's simple to use, easy to maintain, and built to scale. My work spans modern frontend interfaces, backend APIs, databases, and the infrastructure that ties them together.
 
-Currently exploring: **junior developer roles**, **internships**, and **freelance work**.
+**Currently open to:** junior developer roles · internships · freelance projects
 
 <br>
 
-## `> ls stack/`
+## Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
 **Frontend**
-| | |
-|---|---|
-| React | ⚛️ |
-| Next.js | ▲ |
-| TypeScript | 🔷 |
-| Tailwind CSS | 🌊 |
-| HTML / CSS | 🧱 |
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark"/>
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
 **Backend**
-| | |
-|---|---|
-| NestJS | 🐈 |
-| FastAPI | ⚡ |
-| Node.js | 🟢 |
-| Express | 🚂 |
-| Python / PHP | 🐍 |
 
-</td>
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,express,python,php&theme=dark"/>
 
-**Data & Infra**
-| | |
-|---|---|
-| PostgreSQL | 🐘 |
-| MySQL | 🐬 |
-| Redis | 🟥 |
-| Supabase / Firebase | 🔥 |
-| Docker | 🐳 |
-| Meilisearch | 🔍 |
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,firebase,docker&theme=dark"/>
 
 </td>
 </tr>
 </table>
 
-**Tooling** — `Git` `GitHub` `VS Code` `Figma` `Postman`
+<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white"/>
 
 <br>
 
-## `> ./run --list-projects`
+## Featured Projects
 
-<details open>
-<summary><b>🛰️ NetDetect</b> — network monitoring, but campus-wide</summary>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🛰️ NetDetect
+
+Centralized network monitoring platform for campus infrastructure — real-time device visibility, bandwidth analytics, intrusion detection, and remote administration.
+
+`React` `TypeScript` `FastAPI`
+`Express` `PostgreSQL` `Redis` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### 📦 Everyshelf
+
+Inventory management system streamlining stock monitoring, supplier management, dispatch records, and sales tracking through a unified dashboard.
+
+`Next.js` `Supabase` `TanStack Query`
+`Tailwind CSS` `shadcn/ui`
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 QR Wise Clinics
+
+Clinic management platform for appointments, patient records, memberships, inventory, scheduling, and transaction management.
+
+`Next.js` `Supabase` `TanStack Query`
+`Tailwind CSS` `shadcn/ui`
+
+</td>
+</tr>
+</table>
+
 <br>
 
-A centralized network monitoring platform for campus infrastructure — real-time
-device visibility, bandwidth analytics, intrusion detection, and remote
-administration in one dashboard.
-
-`React` `TypeScript` `FastAPI` `Express` `PostgreSQL` `Redis` `Docker`
-
-</details>
-
-<details>
-<summary><b>📦 Everyshelf</b> — inventory, minus the spreadsheet chaos</summary>
-<br>
-
-An inventory management system streamlining stock monitoring, supplier
-management, dispatch records, and sales tracking through one unified dashboard.
-
-`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
-
-</details>
-
-<details>
-<summary><b>🩺 QR Wise Clinics</b> — clinic ops, digitized</summary>
-<br>
-
-A clinic management platform handling appointments, patient records,
-memberships, inventory, scheduling, and transactions.
-
-`Next.js` `Supabase` `TanStack Query` `Tailwind CSS` `shadcn/ui`
-
-</details>
-
-<br>
-
-## `> git log --stats`
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=dark&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rrndxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrndxx&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&theme=dark&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrndxx&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-### `> echo "let's build something."`
+### Let's build something together
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=for-the-badge)](https://rrndxx.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1e293b?style=for-the-badge)](https://rrndxx.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rendyll)
 [![Email](https://img.shields.io/badge/Email-reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rendyllcabardo11@gmail.com)
+
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1e293b&height=100&section=footer"/>
 
 </div>
