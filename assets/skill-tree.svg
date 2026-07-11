@@ -1,0 +1,132 @@
+<svg width="700" height="320" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0118"/>
+      <stop offset="50%" stop-color="#150a30"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
+    <linearGradient id="borderGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="barGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="softGlow4" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow4" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="696" height="316" rx="10" fill="url(#bgGrad4)" stroke="url(#borderGrad4)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="0" width="3" height="316" fill="#A78BFA" opacity="0.35" filter="url(#glow4)">
+    <animate attributeName="x" values="0;697;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M14 14 L14 26 M14 14 L26 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow4)"/>
+  <path d="M686 14 L686 26 M686 14 L674 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow4)"/>
+  <path d="M14 306 L14 294 M14 306 L26 306" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow4)"/>
+  <path d="M686 306 L686 294 M686 306 L674 306" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow4)"/>
+
+  <text x="30" y="38" font-family="Trebuchet MS, sans-serif" font-size="15" letter-spacing="3" fill="#A78BFA" filter="url(#softGlow4)">
+    [ ARISE — SKILL TREE ]
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="350" y1="55" x2="350" y2="300" stroke="#4c1d95" stroke-width="1.5"/>
+
+  <!-- COLUMN HEADERS -->
+  <text x="30" y="62" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">🗡️ FRONTEND ARSENAL</text>
+  <text x="380" y="62" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">🖤 BACKEND ARSENAL</text>
+
+  <!-- ===== LEFT COLUMN ===== -->
+  <!-- React 80% -->
+  <text x="30" y="85" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">React</text>
+  <text x="264" y="85" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">80%</text>
+  <rect x="30" y="91" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="30" y="91" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;176;176" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.1s"/>
+  </rect>
+
+  <!-- Next.js 90% -->
+  <text x="30" y="131" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">Next.js</text>
+  <text x="264" y="131" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">90%</text>
+  <rect x="30" y="137" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="30" y="137" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;198;198" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.25s"/>
+  </rect>
+
+  <!-- TypeScript 70% -->
+  <text x="30" y="177" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">TypeScript</text>
+  <text x="264" y="177" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">70%</text>
+  <rect x="30" y="183" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="30" y="183" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;154;154" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.4s"/>
+  </rect>
+
+  <!-- Tailwind CSS 90% -->
+  <text x="30" y="223" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">Tailwind CSS</text>
+  <text x="264" y="223" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">90%</text>
+  <rect x="30" y="229" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="30" y="229" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;198;198" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.55s"/>
+  </rect>
+
+  <!-- HTML / CSS 100% -->
+  <text x="30" y="269" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">HTML / CSS</text>
+  <text x="264" y="269" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">100%</text>
+  <rect x="30" y="275" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="30" y="275" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;220;220" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.7s"/>
+  </rect>
+
+  <!-- ===== RIGHT COLUMN ===== -->
+  <!-- NestJS 80% -->
+  <text x="380" y="85" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">NestJS</text>
+  <text x="614" y="85" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">80%</text>
+  <rect x="380" y="91" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="380" y="91" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;176;176" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.1s"/>
+  </rect>
+
+  <!-- FastAPI 70% -->
+  <text x="380" y="131" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">FastAPI</text>
+  <text x="614" y="131" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">70%</text>
+  <rect x="380" y="137" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="380" y="137" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;154;154" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.25s"/>
+  </rect>
+
+  <!-- Node.js 90% -->
+  <text x="380" y="177" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">Node.js</text>
+  <text x="614" y="177" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">90%</text>
+  <rect x="380" y="183" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="380" y="183" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;198;198" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.4s"/>
+  </rect>
+
+  <!-- Express 80% -->
+  <text x="380" y="223" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">Express</text>
+  <text x="614" y="223" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">80%</text>
+  <rect x="380" y="229" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="380" y="229" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;176;176" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.55s"/>
+  </rect>
+
+  <!-- Python / PHP 60% -->
+  <text x="380" y="269" font-family="Trebuchet MS, sans-serif" font-size="13" fill="#e9d5ff">Python / PHP</text>
+  <text x="614" y="269" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#A78BFA">60%</text>
+  <rect x="380" y="275" width="220" height="8" rx="4" fill="#1e1b4b" stroke="#4c1d95" stroke-width="1"/>
+  <rect x="380" y="275" width="0" height="8" rx="4" fill="url(#barGrad4)" filter="url(#softGlow4)">
+    <animate attributeName="width" values="0;132;132" keyTimes="0;0.7;1" dur="1.4s" fill="freeze" begin="0.7s"/>
+  </rect>
+</svg>
