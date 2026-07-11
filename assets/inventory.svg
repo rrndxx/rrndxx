@@ -1,0 +1,92 @@
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0118"/>
+      <stop offset="50%" stop-color="#150a30"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
+    <linearGradient id="borderGrad5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <filter id="softGlow5" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow5" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="696" height="296" rx="10" fill="url(#bgGrad5)" stroke="url(#borderGrad5)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="0" width="3" height="296" fill="#A78BFA" opacity="0.35" filter="url(#glow5)">
+    <animate attributeName="x" values="0;697;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M14 14 L14 26 M14 14 L26 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow5)"/>
+  <path d="M686 14 L686 26 M686 14 L674 14" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow5)"/>
+  <path d="M14 286 L14 274 M14 286 L26 286" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow5)"/>
+  <path d="M686 286 L686 274 M686 286 L674 286" stroke="#A78BFA" stroke-width="2" filter="url(#softGlow5)"/>
+
+  <text x="30" y="38" font-family="Trebuchet MS, sans-serif" font-size="15" letter-spacing="3" fill="#A78BFA" filter="url(#softGlow5)">
+    [ INVENTORY ]
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="350" y1="55" x2="350" y2="280" stroke="#4c1d95" stroke-width="1.5"/>
+
+  <!-- LEFT COLUMN: SUPPORT ARTIFACTS -->
+  <text x="30" y="65" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">🌌 SUPPORT ARTIFACTS</text>
+
+  <g fill="#e9d5ff" font-family="Consolas, monospace" font-size="13">
+    <path d="M34 84 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="92">PostgreSQL</text>
+
+    <path d="M34 112 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="120">MySQL</text>
+
+    <path d="M34 140 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="148">Redis</text>
+
+    <path d="M34 168 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="176">Supabase</text>
+
+    <path d="M34 196 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="204">Firebase</text>
+
+    <path d="M34 224 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="232">Docker</text>
+
+    <path d="M34 252 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="46" y="260">Meilisearch</text>
+  </g>
+
+  <!-- RIGHT COLUMN: EQUIPPED GEAR -->
+  <text x="380" y="65" font-family="Trebuchet MS, sans-serif" font-size="12" letter-spacing="2" fill="#8b7cc7">🛠️ EQUIPPED GEAR</text>
+
+  <g fill="#e9d5ff" font-family="Consolas, monospace" font-size="13">
+    <path d="M384 84 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="396" y="92">Git</text>
+
+    <path d="M384 112 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="396" y="120">GitHub</text>
+
+    <path d="M384 140 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="396" y="148">VS Code</text>
+
+    <path d="M384 168 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="396" y="176">Figma</text>
+
+    <path d="M384 196 l4 4 l-4 4 l-4 -4 z" fill="#A78BFA" filter="url(#softGlow5)"/>
+    <text x="396" y="204">Postman</text>
+  </g>
+
+  <text x="350" y="270" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="11" letter-spacing="1" fill="#8b7cc7">
+    ALL ITEMS EQUIPPED
+  </text>
+</svg>
