@@ -1,18 +1,14 @@
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1e1b4b?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://rrndxx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-312e81?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://linkedin.com/in/rendyll)
+[![Email](https://img.shields.io/badge/EMAIL-4c1d95?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](mailto:rendyllcabardo11@gmail.com)
+
 <a href="https://github.com/rrndxx">
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+A+new+quest+has+arrived...;PLAYER+%3A+Rendyll+Ryan+Cabardo;CLASS+%3A+Full-Stack+Developer;RANK+%3A+Ascending" alt="Typing SVG" />
 </a>
 
-<br><br>
-
 <img src="./assets/system-panel.svg" width="700"/>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1e1b4b?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://rrndxx.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-312e81?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](https://linkedin.com/in/rendyll)
-[![Email](https://img.shields.io/badge/EMAIL-4c1d95?style=for-the-badge&logoColor=A78BFA&labelColor=0a0118)](mailto:rendyllcabardo11@gmail.com)
 
 </div>
 
@@ -32,25 +28,9 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🌌 Support Artifacts**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,firebase,docker&theme=dark"/>
-<img src="https://img.shields.io/badge/Meilisearch-4c1d95?style=for-the-badge&labelColor=0a0118"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🛠️ Equipped Gear**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/inventory.svg" width="700"/>
+</div>
 
 <br>
 
